@@ -19,14 +19,14 @@ An open source account of my personal goals. Primarily for accessibility for mul
 - [ ] Clone and test [Reveal.js](https://github.com/hakimel/reveal.js/)
 - [ ] Go through ES2015
 - [ ] Blog Post - My Evernote Replacement
-- [ ] 
+- [ ] Reorganize Chrome Bookmarks
 
 
 ## Things I will do in the Future: 
 
 - [ ] Blog Post - [Hackers](http://www.amazon.com/Hackers-Computer-Revolution-Anniversary-Edition/dp/1449388396) Review
 - [ ] [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
-
+- [ ] Add discourse to blog
 ### Backlog
 
 - [ ] React
