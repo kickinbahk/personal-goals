@@ -1,5 +1,5 @@
 # Personal Goals
-==============
+----------------
 An open source account of my personal goals. Primarily for accessibility for multiple devices, transparency, and some accountiblity.
 
 # 5 Large Goals for 2016
