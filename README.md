@@ -11,21 +11,26 @@ An open source account of my personal goals. Primarily for accessibility for mul
 
 # February 8, 2016 
 
-#### This Week's Focus: ES2015 Cheat Sheet Presentation
+### This Week's Focus: ES2015 Cheat Sheet Presentation
 
-### Things I will do this Week:
-[ ] Clone and test [Reveal.js](https://github.com/hakimel/reveal.js/)
-[ ] Go through ES2015
-[ ] Blog Post - My Evernote Replacement
-[ ] 
 
-### Things I will do in the Future: 
-[ ] Blog Post - [Hackers](http://www.amazon.com/Hackers-Computer-Revolution-Anniversary-Edition/dp/1449388396) Review
-[ ] [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+## Things I will do this Week:
+
+- [ ] Clone and test [Reveal.js](https://github.com/hakimel/reveal.js/)
+- [ ] Go through ES2015
+- [ ] Blog Post - My Evernote Replacement
+- [ ] 
+
+
+## Things I will do in the Future: 
+
+- [ ] Blog Post - [Hackers](http://www.amazon.com/Hackers-Computer-Revolution-Anniversary-Edition/dp/1449388396) Review
+- [ ] [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ### Backlog
-[ ] React
+
+- [ ] React
 
 =============
-** Heavily influenced by [Una Kravets](http://unakravets.com/). See her personal-goals [here on github](https://github.com/una/personal-goals). **
+*Heavily influenced by [Una Kravets](http://unakravets.com/). See her personal-goals [here on github](https://github.com/una/personal-goals).*
 
