@@ -12,3 +12,8 @@
 ## Functional Programming
 - [ ] [Functional Programming for the Object-Oriented Programmer](https://leanpub.com/fp-oo)
 
+## Git
+- [ ] [Pro Git](http://git-scm.com/book/en/v2?)
+
+## Programming Theory
+- [ ] [Pragmatic Programmer](http://www.amazon.com/gp/aw/d/B003GCTQAE/ref=tmm_kin_title_0?ie=UTF8&qid=&sr=)
