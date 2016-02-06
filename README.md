@@ -18,7 +18,8 @@ An open source account of my personal goals. Primarily for accessibility for mul
 ## Things I will do this Week:
 
 - [ ] Clone and test [Reveal.js](https://github.com/hakimel/reveal.js/)
-- [ ] Go through ES2015 Cheat Sheet
+- [ ] Go through [ES 2015 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+- [ ] [Babel - Learn Es 2015](https://babeljs.io/docs/learn-es2015/)
 - [ ] Blog Post - My Evernote Replacement
 - [ ] Reorganize Chrome Bookmarks
 
