@@ -5,6 +5,12 @@
 
 - [x] [Steven Levy Talks about Hackers Heroes of the Computer Revolution - 25th Anniversary Edition](https://www.youtube.com/watch?v=w_jwcCseDk0)
 
+## Functional Programming
+
+- [x] [Robert C Martin - Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
+- [ ] [33rd Degree 2014 - The Joy of Functional Programming - Venkat Subramaniam](https://www.youtube.com/watch?v=__dDAD0Y_WU)
+- [x] [Functional Principles for Object-Oriented Development • Jessica Kerr](https://www.youtube.com/watch?v=GpXsQ-NIKXY)
+
 ## HTML
 
 - [x] [Kod.io 2014 - 10 Things I Didn't Know About HTML by Mathias Bynens](https://www.youtube.com/watch?v=mHRKbm0WC1I)
