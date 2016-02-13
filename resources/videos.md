@@ -15,6 +15,7 @@
 
 - [ ] [How GitHub Uses GitHub to Build GitHub by Zach Holman](https://www.youtube.com/watch?v=qyz3jkOBbQY)
 - [ ] [Aloha Ruby Conference 2012 Git and GitHub Secrets by Zach Holman](https://www.youtube.com/watch?v=Foz9yvMkvlA)
+
 ## HTML
 
 - [x] [Kod.io 2014 - 10 Things I Didn't Know About HTML by Mathias Bynens](https://www.youtube.com/watch?v=mHRKbm0WC1I)
@@ -26,14 +27,14 @@
 - [x] [Forbes Lindesay: Promises and Generators: control flow utopia -- JSConf EU 2013](https://www.youtube.com/watch?v=qbKWsbJ76-s)
 - [x] [Ashley Williams: If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
 
-### Node
+#### - Node
 
 - [x] [Front-End Development in Node.js - Raquel Vélez](https://www.youtube.com/watch?v=icNHLlRazds&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
 - [x] [HTML5 Lessons from LinkedIn using Node.js](https://www.youtube.com/watch?v=hMd45Ij2DYQ)
 - [x] [Node.js - How I learned to stop worrying and love the Node](https://www.youtube.com/watch?v=1RW9bxQ1EXI)
 - [x] [Brian Ford: Is Node.js Better?](https://www.youtube.com/watch?v=C5fa1LZYodQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
 
-### React
+#### - React
 
 - [x] [Pete Hunt: React: Rethinking best practices -- JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 
