@@ -11,6 +11,10 @@
 - [ ] [33rd Degree 2014 - The Joy of Functional Programming - Venkat Subramaniam](https://www.youtube.com/watch?v=__dDAD0Y_WU)
 - [x] [Functional Principles for Object-Oriented Development • Jessica Kerr](https://www.youtube.com/watch?v=GpXsQ-NIKXY)
 
+## GitHub
+
+- [ ] [How GitHub Uses GitHub to Build GitHub by Zach Holman](https://www.youtube.com/watch?v=qyz3jkOBbQY)
+- [ ] [Aloha Ruby Conference 2012 Git and GitHub Secrets by Zach Holman](https://www.youtube.com/watch?v=Foz9yvMkvlA)
 ## HTML
 
 - [x] [Kod.io 2014 - 10 Things I Didn't Know About HTML by Mathias Bynens](https://www.youtube.com/watch?v=mHRKbm0WC1I)
@@ -32,3 +36,7 @@
 ### React
 
 - [x] [Pete Hunt: React: Rethinking best practices -- JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+
+## Ruby
+
+- [ ] [Ruby Midwest 2011 Confident Code by Avdi Grimm](https://www.youtube.com/watch?v=T8J0j2xJFgQ) 
