@@ -1,0 +1,19 @@
+* Intro
+
+When I am telling people about Rust, I usually get one of two different responses; "What is Rust?" or "I have heard a little about Rust, tell me about it." Both responses usually end up with me talking about the same concepts. Usually, within my first sentence I talk about Rust being a low level language and meant to be a systems level language. This will usually lead to the follow up question; "What does that mean?" This question makes sense, as systems programming seems to be a term which is used for a variety of diffent concepts. 
+
+* What is Systems Programming?
+ 
+  - Low Level
+    A low level language (system language) provides more access to the system hardware. The first system language was Assembly. Assembly allowed for a programmer to need not write binary (aka machine code) to give a machine instructions; rather more elegant (compared to binary) Assembly.
+
+  - Language used for Writing the System
+    This is a general concept as 
+
+
+ 
+
+What is Systems Programming in terms of Rust
+
+
+
