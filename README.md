@@ -19,14 +19,14 @@ An open source account of my personal goals. Primarily for accessibility for mul
 
 - [x] Clone and test [Reveal.js](https://github.com/hakimel/reveal.js/)
 - [ ] Go through [ES 2015 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
-- [ ] [Babel - Learn Es 2015](https://babeljs.io/docs/learn-es2015/)
+- [x] [Babel - Learn Es 2015](https://babeljs.io/docs/learn-es2015/)
 - [x] Blog Post - My Evernote Replacement
 - [ ] Reorganize Chrome Bookmarks
 - [ ] Prepare ES 2015 Presentation For RRuG
+- [x] Blog Post First Draft- Git & Writing Workflow
 
 ## Things I will do in the Future: 
 
-- [ ] Blog Post - Git - Writing Workflow
 - [ ] Blog Post - [Hackers](http://www.amazon.com/Hackers-Computer-Revolution-Anniversary-Edition/dp/1449388396) Review
 - [ ] Add discourse to blog
 - [ ] [Universal Blog App: A Step-by-Step Guide](http://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/?utm_source=javascriptweekly&utm_medium=email)
