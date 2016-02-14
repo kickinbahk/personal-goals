@@ -38,6 +38,10 @@
 
 - [x] [Pete Hunt: React: Rethinking best practices -- JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 
+## Photoshop
+
+- [x] [How to create an Animated Gif with Video using Photoshop CC 2015](https://www.youtube.com/watch?v=K3pNgn1FAuU) 
+
 ## Ruby
 
 - [ ] [Ruby Midwest 2011 Confident Code by Avdi Grimm](https://www.youtube.com/watch?v=T8J0j2xJFgQ) 
