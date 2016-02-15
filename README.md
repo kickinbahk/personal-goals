@@ -12,19 +12,18 @@ An open source account of my personal goals. Primarily for accessibility for mul
 
 # February 8, 2016 
 
-### This Week's Focus: ES2015 Cheat Sheet Presentation
+### This Week's Focus: ES2015 Cheat Sheet Presentation (cont.)/The Complete Node JS Developer Course
 
 
 ## Things I will do this Week:
 
-- [x] Clone and test [Reveal.js](https://github.com/hakimel/reveal.js/)
-- [ ] Go through [ES 2015 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
-- [x] [Babel - Learn Es 2015](https://babeljs.io/docs/learn-es2015/)
-- [x] Blog Post - My Evernote Replacement
-- [ ] Reorganize Chrome Bookmarks
 - [ ] Prepare ES 2015 Presentation For RRuG
-- [x] Blog Post First Draft- Git & Writing Workflow
-
+- [ ] Reorganize Chrome Bookmarks
+- [ ] Blog Post - Update Podcast list
+- [ ] HeadFirst Javascript - Chapter 5: Objects
+- [ ] Fantasy Baseball Ranks 50-100
+- [ ] The Complete Node JS Developer Course - Section: 6 - Creating A Web Server With Express.js
+- [ ] Blog Post - Publish - Git & Writing Workflow
 ## Things I will do in the Future: 
 
 - [ ] Blog Post - [Hackers](http://www.amazon.com/Hackers-Computer-Revolution-Anniversary-Edition/dp/1449388396) Review
