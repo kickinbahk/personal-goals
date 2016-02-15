@@ -24,9 +24,11 @@ An open source account of my personal goals. Primarily for accessibility for mul
 - [ ] Fantasy Baseball Ranks 50-100
 - [ ] The Complete Node JS Developer Course - Section: 6 - Creating A Web Server With Express.js
 - [ ] Blog Post - Publish - Git & Writing Workflow
+
 ## Things I will do in the Future: 
 
-- [ ] Blog Post - [Hackers](http://www.amazon.com/Hackers-Computer-Revolution-Anniversary-Edition/dp/1449388396) Review
+- [ ] Blog Post -
+[Hackers](http://www.amazon.com/Hackers-Computer-Revolution-Anniversary-Edition/dp/1449388396) Review
 - [ ] Add discourse to blog
 - [ ] [Universal Blog App: A Step-by-Step Guide](http://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/?utm_source=javascriptweekly&utm_medium=email)
 
