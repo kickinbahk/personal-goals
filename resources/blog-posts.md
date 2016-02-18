@@ -15,6 +15,10 @@
 - [ ] [The Two Pillars of JavaScript: Prototypical OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.vqkb1k8m4)
 - [ ] [The Two Pillars of JavaScript — Pt 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.y333pl768)
 
+#### React
+
+- [ ] [I Learned How to be Productive in React in a Week and You Can, Too](https://css-tricks.com/productive-in-react/)
+
 ## Personal Growth
 
 - [x] [Personal Growth Guide - Una Kravets](http://una.im/personal-goals-guide/#💁)

@@ -17,13 +17,13 @@ An open source account of my personal goals. Primarily for accessibility for mul
 
 ## Things I will do this Week:
 
-- [ ] Prepare ES 2015 Presentation For RRuG
+- [x] Prepare ES 2015 Presentation For RRuG
 - [ ] Reorganize Chrome Bookmarks
 - [ ] Blog Post - Update Podcast list
 - [ ] HeadFirst Javascript - Chapter 5: Objects
 - [ ] Fantasy Baseball Ranks 50-100
 - [ ] The Complete Node JS Developer Course - Section: 6 - Creating A Web Server With Express.js
-- [ ] Blog Post - Publish - Git & Writing Workflow
+- [x] Blog Post - Publish - Git & Writing Workflow
 
 ## Things I will do in the Future: 
 
