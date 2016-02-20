@@ -20,7 +20,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 - [x] Prepare ES 2015 Presentation For RRuG
 - [ ] Reorganize Chrome Bookmarks
 - [ ] Blog Post - Update Podcast list
-- [ ] HeadFirst Javascript - Chapter 5: Objects
+- [x] HeadFirst Javascript - Chapter 5: Objects
 - [ ] Fantasy Baseball Ranks 50-100
 - [ ] The Complete Node JS Developer Course - Section: 6 - Creating A Web Server With Express.js
 - [x] Blog Post - Publish - Git & Writing Workflow
