@@ -20,6 +20,8 @@
 - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [ ] [Javascript Allonge](https://leanpub.com/javascriptallongesix)
 - [ ] [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+#### Node
+- [ ] [Node Beginner and Craftsman Bundle](https://leanpub.com/b/node-beginner-and-craftsman-bundle)
 
 ## Programming Theory
 
