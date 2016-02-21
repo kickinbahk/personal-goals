@@ -17,12 +17,20 @@
 
 ## Javascript
 
+- [ ] [Head First JavaScript Programming](http://www.amazon.com/Head-First-JavaScript-Programming-Freeman/dp/144934013X)
 - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [ ] [Javascript Allonge](https://leanpub.com/javascriptallongesix)
 - [ ] [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
 #### Node
-- [ ] [Node Beginner and Craftsman Bundle](https://leanpub.com/b/node-beginner-and-craftsman-bundle)
+
+- [ ] [The Node Beginner Book](http://www.nodebeginner.org/)
+- [ ] [The Node Craftsman](https://leanpub.com/nodecraftsman)
 
 ## Programming Theory
 
 - [ ] [Pragmatic Programmer](http://www.amazon.com/gp/aw/d/B003GCTQAE/ref=tmm_kin_title_0?ie=UTF8&qid=&sr=)
+
+## Ruby
+
+- [x] [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
