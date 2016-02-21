@@ -10,7 +10,6 @@ These are some of the podcasts that I listen to often.
 
 * [MacBreak Weekly](https://twit.tv/shows/macbreak-weekly) - I use a Mac and an iPhone. Even though I have Windows and Android devices, I like to keep abreast of the most profitable company in the world and the makers of the eco system that my technology is based in. While they are all journalists, many have great connections with the programmer that deal and have dealt in the eco system. I like to get the overarching view. Also, the MacBreak picks are the best on the Twit network and you will smile from something [Andy Ihnatko](https://twitter.com/Ihnatko) says or does, at least once a show.
 
-
 [Devchat.tv](https://devchat.tv/) - This is generally my favorite podcasting network at this time. Home of Ruby Rogues and several others, most Devchat podcasts consists of developers who are currently making a living doing development.
 
 * [Ruby Rogues](https://devchat.tv/ruby-rogues) - This podcast has been so valuable that I have gone back and listened to every podcast they have done from the beginning. I highly recommend it. [Josh Susser](https://twitter.com/joshsusser) and [James Edward Gray II](https://twitter.com/jeg2) were two that had much great insight in the earlier episodes. I still enjoy much of the content put out on their their site today.
@@ -26,17 +25,17 @@ These are some of the podcasts that I listen to often.
 
 * **[Does Not Compute](http://spec.fm/podcasts/does-not-compute)** - Also tends to be higher-level developer concepts by Sean Washington & Paul Straw. They state that they are about _"the lives and workflows of modern web developers"_. I would agree with this statement and enjoy hearing them discuss their takes on different concepts. 
 
-* **[The Bike Shed](http://bikeshed.fm/)** - This is a podcast put on by 3 of the developers at Thoughtbot, a consulting company. They are Ruby on Rails developers by trade, but tend to talk about anything catching their interest, which often are other programming languages like Rust, Elixir, Haskell, ect. Generally, this podcast is a conversation between the 2 hosts who can make it, which tends to rotate. This provides a very 'fly on the wall' feeling as you listen to the conversation they are having. 
+**[The Bike Shed](http://bikeshed.fm/)** - This is a podcast put on by 3 of the developers at Thoughtbot, a consulting company. They are Ruby on Rails developers by trade, but tend to talk about anything catching their interest, which often are other programming languages like Rust, Elixir, Haskell, ect. Generally, this podcast is a conversation between the 2 hosts who can make it, which tends to rotate. This provides a very 'fly on the wall' feeling as you listen to the conversation they are having. 
 
-**[Javascript Air]()** -
+**[Javascript Air](http://javascriptair.com/)** - This podcast tends to be a deep dive into Javascript. The panelists they have are typically well known in the community and can provide a lot of insight into the language. There are typically a panel of 5 or 6 on a show and while this often leads to having too much 'noise' and opinions, I feel this show manages it really well. The one time it can get to be a bit much is when they do their "tips and picks". Every person usually does a tip and a pick and it can really feel long. There are times I will just turn the show off at this point, as the rest of the show is just too good to miss. 
 
-**[Under the Radar]()** -
+**[Under the Radar](https://www.relay.fm/radar)** - Technically, Under the Radar is a podcast about iOS development, but I always get a ton of value from it. First, it is done by Dave Smith and Marco Arment (from the Accidental Tech Podcast). I love Marco's take on development and his general perspective on development issues. While I did not know Dave before this podcast, he has some very well known apps and I have grown to respect his opinion as well. Secondly, many of the concepts they talk about trancend the iOS world and are things that any developer making a product must consider. 
 
-**[ShopTalk]()** -
+**[The John Morris Show](http://www.johnmorrisonline.com/johnmorrisshow/)** - John is quite the character. He is a PHP developer with some angst and opinions. While there are some sections of his podcast which are PHP related, most is high-level freelancer and developer concepts. If you tend to prefer the "everyone can be right" outlook, John may really get on your nerves. While I may not quite so opinionated, I have always, prefered polarizing people to non-opinions. As such, this podcast gets me thinking about why I may agree or disagree with John and usually I enjoy at least hearing his perspective. If you are familiar with the sports world, John would be the Colin Cowherd in my podcast list. 
 
-**[Release Notes]()** -
+**[ShopTalk](http://shoptalkshow.com/)** - I am not going to lie, there are definitely times where this show just gets on my nerves. They tend to be the exact opposite of what I described above; having the "every opinion is a winner" attitude and there can be a "rah-rah" type feeling. I dunno, maybe I just hate fun. All that said, much of their content is great and extremely educational. This is by far, the most designer focused podcast I listen to and because of that fact alone, I don't get the insight anywhere else. 
 
-**[The John Morris Show]()** -
+**[Release Notes](http://releasenotes.tv/)** - I have just recently started listening to this podcast. They claim to be "everything but the code". As such, they tend to come at it from a very "business" sense, which I like. They run larger companies and seeing their perspective as opposed to the "indie" developer is very interesting to me. I recommend checking them out and seeing if they interest you. 
 
 [Accidental Tech Podcast](http://atp.fm/) - Another regarding the Apple ecosystem. This one is a bit different as all the hosts are coders to different extents. It is good to hear the perspective from them as opposed to the journalists on Twit.  They also tend to focus more on hardware specifications. The three hosts really make this show educational and incredibly entertaining.
 
@@ -66,9 +65,7 @@ I will catch these podcasts as time permits and as they have subjects that seem 
 
 There is only so much time in a day and as I add podcasts and life changes, so do the podcasts I am listening to. This list will also include podcasts which are no longer posting or seem to be cancelled (as they are no longer posting at this time).
 
-[Start Here](http://starthere.fm/) - This podcast seems to be cancelled. They lost one host and there has only been one episode since. I really liked it when it was going and it would be worth going back for a listen to some of the earlier episodes
-
-_They have had some changes to their hosts in the recent episodes, but I am excited to see what they may do in the future. Their episodes can have a lot of time from one to the next, however when they do come out they are great._
+[Start Here](http://starthere.fm/) - These podcasts seems to be cancelled. They lost one host and there has only been one episode since. I really liked it when it was going and it would be worth going back for a listen to some of the earlier episodes
 
 * [Web Development](http://starthere.fm/category/webdev) - This podcast had great potential. They went through popular web languages and frameworks, which was nice to get overviews. I especially like that they talked about how to go about starting a project for a client. Even though it did not play out fully, there was a lot of great information and perspectives that they shared.
 
@@ -78,5 +75,5 @@ _They have had some changes to their hosts in the recent episodes, but I am exci
 
 * [Coding 101](https://twit.tv/shows/coding-101) - Officially cancelled at the beginning of 2016, I wish this podcast was still running. However, they got more 'maker' focused at the end and it they could combine the shows into one. This is also worth going back and looking through their modules to see if any languages pique your interest.
 
-_This podcast is very good. They break up into modules for different languages and projects. Based off my learning, sometime I do feel that some statements made can be feel disconnected from reality, but overall it is a good podcast._
 
+####### Items in Bold are new additions from last post
