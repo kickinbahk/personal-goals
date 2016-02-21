@@ -5,6 +5,10 @@
 
 - [x] [Steven Levy Talks about Hackers Heroes of the Computer Revolution - 25th Anniversary Edition](https://www.youtube.com/watch?v=w_jwcCseDk0)
 
+## Computer Theory
+
+- [x] [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
+
 ## Functional Programming
 
 - [x] [Robert C Martin - Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
@@ -44,4 +48,5 @@
 
 ## Ruby
 
-- [ ] [Ruby Midwest 2011 Confident Code by Avdi Grimm](https://www.youtube.com/watch?v=T8J0j2xJFgQ) 
+- [ ] [Ruby Midwest 2011 Confident Code by Avdi Grimm](https://www.youtube.com/watch?v=T8J0j2xJFgQ)
+- [ ] [GoGaRuCo 2014- Refactoring Ruby with Monads](https://www.youtube.com/watch?v=uTR__8RvgvM)

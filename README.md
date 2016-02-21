@@ -18,10 +18,12 @@ An open source account of my personal goals. Primarily for accessibility for mul
 ## Things I will do this Week:
 
 - [ ] The Node Beginner Book
+- [ ] The Complete Node JS Developer Course - Section: 7 - Project: Todo REST API
 - [ ] Reorganize Chrome Bookmarks
 - [ ] Blog Post - Update Podcast list
-- [ ] HeadFirst Javascript - Chapter 6: 
+- [ ] HeadFirst Javascript - Chapter 6: Getting To Know the DOM
 - [ ] Fantasy Baseball Ranks 50-100
+- [ ] Blog Post - Publish - Current Podcast List
 
 ## Things I will do in the Future: 
 
