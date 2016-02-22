@@ -10,9 +10,9 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# February 8, 2016 
+# February 22, 2016 
 
-### This Week's Focus: ES2015 Cheat Sheet Presentation (cont.)/The Complete Node JS Developer Course
+### This Week's Focus: Node and Express
 
 
 ## Things I will do this Week:
