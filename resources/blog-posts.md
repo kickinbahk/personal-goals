@@ -1,5 +1,9 @@
 # Blog Posts and Resources
 
+## C++
+
+- [ ] [Cprogramming.com](http://www.cprogramming.com/tutorial/lesson1.html)
+
 ## Emacs
 
 - [x] [Configuring emacs to use eslint and babel with flycheck for javascript and React.js JSX](http://codewinds.com/blog/2015-04-02-emacs-flycheck-eslint-jsx.html)
@@ -27,3 +31,13 @@
 ## Personal Growth
 
 - [x] [Personal Growth Guide - Una Kravets](http://una.im/personal-goals-guide/#💁)
+
+## Ruby
+
+- [x] [BDD on Rails with Minitest, Part 1: Up and Running](https://semaphoreci.com/blog/2014/10/27/bdd-on-rails-with-minitest-part-1-up-and-running.html)
+- [x] [Adding Minitest Spec in Rails 4](http://blowmage.com/2013/07/08/minitest-spec-rails4)
+- [x] [Testing Rails with MiniTest](http://blog.crowdint.com/2013/06/14/testing-rails-with-minitest.html)
+- [x] [Rails Testing — Demystifying Test-Unit](http://www.hiringthing.com/2012/08/02/rails-testing-demystifying-test-unit.html)
+- [x] [Getting Started with MiniTest](http://6ftdan.com/allyourdev/2015/04/04/getting-started-with-minitest/)
+
+

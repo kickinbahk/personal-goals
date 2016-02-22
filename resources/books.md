@@ -7,6 +7,10 @@
 - [ ] [HeadFirst Design Patterns](http://www.amazon.com/Head-First-Design-Patterns-Freeman-ebook/dp/B00AA36RZY/ref=mt_kindle?_encoding=UTF8&me=)
 - [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 
+## Cryptography
+
+- [ ] [Applied Cryptography: Protocols, Algorithms, and Source Code in C](http://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/0471117099)
+
 ## Functional Programming
 
 - [ ] [Functional Programming for the Object-Oriented Programmer](https://leanpub.com/fp-oo)
