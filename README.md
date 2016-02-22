@@ -23,7 +23,8 @@ An open source account of my personal goals. Primarily for accessibility for mul
 - [ ] Blog Post - Update Podcast list
 - [ ] HeadFirst Javascript - Chapter 6: Getting To Know the DOM
 - [ ] Fantasy Baseball Ranks 50-100
-- [ ] Blog Post - Publish - Current Podcast List
+- [x] Blog Post - Publish - Current Podcast List
+- [ ] Taxes
 
 ## Things I will do in the Future: 
 
