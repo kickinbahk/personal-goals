@@ -43,6 +43,9 @@
 
 - [x] [Pete Hunt: React: Rethinking best practices -- JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 - [ ] [ReactJS Conf 2016 - Day 1](https://www.youtube.com/watch?feature=youtu.be&v=-bdX8A_6v20&app=desktop)
+- [ ] [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
+- [ ] [React.js Conf 2015 - The complementarity of React and Web Components](https://www.youtube.com/watch?v=g0TD0efcwVg&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr&index=12)
+
 ## Photoshop
 
 - [x] [How to create an Animated Gif with Video using Photoshop CC 2015](https://www.youtube.com/watch?v=K3pNgn1FAuU) 
