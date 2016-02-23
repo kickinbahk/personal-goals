@@ -8,6 +8,7 @@
 ## Computer Theory
 
 - [x] [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
+- [ ] [Christopher Alexander - Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA)
 
 ## Functional Programming
 
@@ -41,7 +42,7 @@
 #### - React
 
 - [x] [Pete Hunt: React: Rethinking best practices -- JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
-
+- [ ] [ReactJS Conf 2016 - Day 1](https://www.youtube.com/watch?feature=youtu.be&v=-bdX8A_6v20&app=desktop)
 ## Photoshop
 
 - [x] [How to create an Animated Gif with Video using Photoshop CC 2015](https://www.youtube.com/watch?v=K3pNgn1FAuU) 

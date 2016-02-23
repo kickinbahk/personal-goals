@@ -5,8 +5,9 @@
 ## Computer Science
 
 - [ ] [HeadFirst Design Patterns](http://www.amazon.com/Head-First-Design-Patterns-Freeman-ebook/dp/B00AA36RZY/ref=mt_kindle?_encoding=UTF8&me=)
+- [ ] [Essential COM](http://www.amazon.com/Essential-COM-Don-Box/dp/0201634465)
 - [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
-
+- [ ] [The Timeless Way of Building](http://www.amazon.com/The-Timeless-Building-Christopher-Alexander/dp/0195024028)
 ## Cryptography
 
 - [ ] [Applied Cryptography: Protocols, Algorithms, and Source Code in C](http://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/0471117099)
