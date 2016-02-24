@@ -9,6 +9,7 @@
 
 - [x] [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 - [ ] [Christopher Alexander - Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA)
+- [x] [Bob Martin - hack.summit() 2016 by Pluralsight](https://www.youtube.com/watch?v=gQQs7RENpqg)
 
 ## Functional Programming
 
