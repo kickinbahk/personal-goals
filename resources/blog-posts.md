@@ -18,6 +18,7 @@
 - [x] [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.m9xxhf3ys)
 - [ ] [The Two Pillars of JavaScript: Prototypical OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.vqkb1k8m4)
 - [ ] [The Two Pillars of JavaScript — Pt 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.y333pl768)
+- [ ] [Leveling Up Your JavaScript](http://developer.telerik.com/featured/leveling-up-your-javascript/?utm_source=javascriptweekly&utm_medium=email)
 
 #### Node
 
@@ -41,5 +42,4 @@
 - [x] [Testing Rails with MiniTest](http://blog.crowdint.com/2013/06/14/testing-rails-with-minitest.html)
 - [x] [Rails Testing — Demystifying Test-Unit](http://www.hiringthing.com/2012/08/02/rails-testing-demystifying-test-unit.html)
 - [x] [Getting Started with MiniTest](http://6ftdan.com/allyourdev/2015/04/04/getting-started-with-minitest/)
-
 
