@@ -11,6 +11,10 @@
 - [ ] [Christopher Alexander - Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA)
 - [x] [Bob Martin - hack.summit() 2016 by Pluralsight](https://www.youtube.com/watch?v=gQQs7RENpqg)
 
+## Founder's Talks
+
+- [ ] [Founders Talk - Gregg Pollock (CodeSchool)](https://www.youtube.com/watch?v=azhLSrqlXFk)
+
 ## Functional Programming
 
 - [x] [Robert C Martin - Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)

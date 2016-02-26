@@ -27,6 +27,8 @@
 
 - [ ] [I Learned How to be Productive in React in a Week and You Can, Too](https://css-tricks.com/productive-in-react/)
 - [x] [Universal Blog App: A Step-by-Step Guide](http://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/?utm_source=javascriptweekly&utm_medium=email)
+- [ ] [An Introduction to React Redux (Part 1)](https://shellmonger.com/2016/02/16/an-introduction-to-react-redux-part-1/)
+- [ ] [An Introduction to React Redux (Part 2)](https://shellmonger.com/2016/02/19/an-introduction-to-react-redux-part-2/)
 
 ## Personal Growth
 
