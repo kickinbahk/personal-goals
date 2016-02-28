@@ -18,7 +18,21 @@ Absctraction often brings speed, but I still appreciate the fact that I can see 
 
 ### Not a Framework
 
+What is Node? It is just javascript, but it is javascript that is doing something differently than it has ever done till now. It feels like what we might call a framework, but there is no extra syntax, it IS just javascript so what is it?
 
+I recently went through [The Node Beginner Book](https://leanpub.com/nodebeginner) which I highly recommend if you are looking at trying Node. It is particularly good if you are coming from another language, as the author will talk about how the conventions might be in another language, but why Node makes a process easier or does it differently. 
 
+So what is Node? I like the way the author of the book states it.
+
+>Node.js really is just another context: it allows you to run JavaScript code in the backend, outside a browser.
+> Manuel Keissling, [The Node Beginner Book](https://leanpub.com/nodebeginner)
+
+Another context of Javascript, or a different implementation of the language. This is what Node is.
+
+### Wrapping Up
+
+I am enjoying the lack of absctractions, the modules, and just writing javascript. I highly recommend checking out [The Node Beginner Book](https://leanpub.com/nodebeginner) and I will be diving into the next book by that author, [The Node Craftsman Book](https://leanpub.com/nodecraftsman) in the upcoming weeks.
+
+###### **[Connect with me on Twitter](https://twitter.com/kickinbahk) if you have any comments!**
 
 

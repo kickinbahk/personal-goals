@@ -36,6 +36,7 @@
 - [x] [Martin Kleppe: 1024+ Seconds of JS Wizardry -- JSConf EU 2013](https://www.youtube.com/watch?v=RTxtiLp1C8Y)
 - [x] [Forbes Lindesay: Promises and Generators: control flow utopia -- JSConf EU 2013](https://www.youtube.com/watch?v=qbKWsbJ76-s)
 - [x] [Ashley Williams: If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
+- [ ] [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
 
 #### - Node
 
