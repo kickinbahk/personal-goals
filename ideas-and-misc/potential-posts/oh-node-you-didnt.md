@@ -25,7 +25,8 @@ I recently went through [The Node Beginner Book](https://leanpub.com/nodebeginne
 So what is Node? I like the way the author of the book states it.
 
 >Node.js really is just another context: it allows you to run JavaScript code in the backend, outside a browser.  
-   - Manuel Keissling, [The Node Beginner Book](https://leanpub.com/nodebeginner)
+
+- Manuel Keissling, [The Node Beginner Book](https://leanpub.com/nodebeginner)
 
 Another context of Javascript, or a different implementation of the language. This is what Node is.
 
