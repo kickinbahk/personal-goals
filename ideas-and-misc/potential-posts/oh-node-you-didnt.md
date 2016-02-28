@@ -8,7 +8,7 @@ Well this happened for me with Node in this 3 month period. I never 'hated' Node
 
 I saw so many companies using Node and finally just decided I needed to try it. 
 
-## Hello, Server
+### Hello, Server
 
 I did what seems to be the consistent "Hello, World" in Node; building a server using the built in http module and serving some text to a page. Honestly, this blew me away. That I could so quickly serve up some pages without a framework like Rails or even a gem. It is just 'out of the box'.
 
