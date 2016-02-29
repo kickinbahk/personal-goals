@@ -10,9 +10,9 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# February 22, 2016 
+# February 29, 2016 
 
-### This Week's Focus: Node and Express
+### This Week's Focus: Node and Express/Taxes
 
 
 ## Things I will do this Week:

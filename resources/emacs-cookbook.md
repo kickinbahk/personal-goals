@@ -15,3 +15,10 @@ M % - Query Replace (Asks to replace each instance)
 - spc - Replace the occurrence with newstring
 - del - Skip to the next occurrence without replacing this one
 
+#### Manage Split Windows
+
+C x 2 - Split window below
+C x 3 - Split window right
+C x 1 - Delete other windows
+C x 0 - Delete current window
+C x o - Switch cursor to other window
