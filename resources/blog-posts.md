@@ -34,6 +34,9 @@
 - [ ] [
 Does React really violate Separation of Concern by putting HTML and JS in a single file?](https://hashnode.com/post/does-react-really-violate-separation-of-concern-by-putting-html-and-js-in-a-single-file-cil3bn5hj0011a65347rsdut0)
 - [ ] [Step by Step Guide To Building React Redux Apps](http://www.mybridge.co/view/37675)
+- [ ] [Tutorial: Build a React.js Application With User Authentication](https://stormpath.com/blog/build-a-react-app-with-user-authentication/?utm_source=javascript-weekly&utm_medium=newsletter&utm_campaign=react-app)
+- [ ] [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
+
 
 ## Personal Growth
 

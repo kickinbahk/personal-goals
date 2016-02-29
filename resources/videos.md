@@ -56,6 +56,9 @@
 
 - [x] [How to create an Animated Gif with Video using Photoshop CC 2015](https://www.youtube.com/watch?v=K3pNgn1FAuU) 
 
+## Open Source
+
+- [ ] [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github?utm_source=javascriptweekly&utm_medium=email)
 ## Ruby
 
 - [ ] [Ruby Midwest 2011 Confident Code by Avdi Grimm](https://www.youtube.com/watch?v=T8J0j2xJFgQ)
