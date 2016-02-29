@@ -30,6 +30,10 @@
 - [x] [Universal Blog App: A Step-by-Step Guide](http://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/?utm_source=javascriptweekly&utm_medium=email)
 - [ ] [An Introduction to React Redux (Part 1)](https://shellmonger.com/2016/02/16/an-introduction-to-react-redux-part-1/)
 - [ ] [An Introduction to React Redux (Part 2)](https://shellmonger.com/2016/02/19/an-introduction-to-react-redux-part-2/)
+- [ ] [Meet JSX...Again!](https://www.kirupa.com/react/meet_jsx_again.htm?utm_campaign=linkplug&utm_source=linkplug&utm_medium=linkplug&utm_content=linkplug&utm_term=linkplug)
+- [ ] [
+Does React really violate Separation of Concern by putting HTML and JS in a single file?](https://hashnode.com/post/does-react-really-violate-separation-of-concern-by-putting-html-and-js-in-a-single-file-cil3bn5hj0011a65347rsdut0)
+- [ ] [Step by Step Guide To Building React Redux Apps](http://www.mybridge.co/view/37675)
 
 ## Personal Growth
 
