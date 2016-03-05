@@ -20,6 +20,7 @@
 - [x] [Robert C Martin - Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
 - [ ] [33rd Degree 2014 - The Joy of Functional Programming - Venkat Subramaniam](https://www.youtube.com/watch?v=__dDAD0Y_WU)
 - [x] [Functional Principles for Object-Oriented Development • Jessica Kerr](https://www.youtube.com/watch?v=GpXsQ-NIKXY)
+- [ ] [James Coglan: Practical functional programming: pick two | JSConf EU 2014](https://www.youtube.com/watch?v=XcS-LdEBUkE)
 
 ## GitHub
 
@@ -37,6 +38,7 @@
 - [x] [Forbes Lindesay: Promises and Generators: control flow utopia -- JSConf EU 2013](https://www.youtube.com/watch?v=qbKWsbJ76-s)
 - [x] [Ashley Williams: If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
 - [ ] [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
+- [ ] [Asynchronous Programming at Netflix - @Scale 2014 - Web](https://www.youtube.com/watch?v=gawmdhCNy-A)
 
 #### - Node
 
