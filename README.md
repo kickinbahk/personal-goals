@@ -17,7 +17,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 
 ## Things I will do this Week:
 
-- [ ] The Complete Node JS Developer Course - Section: 7 - Project: Todo REST API
+- [x] The Complete Node JS Developer Course - Section: 7 - Project: Todo REST API
 - [ ] Reorganize Chrome Bookmarks
 - [ ] Blog Post - First Draft - Comma Separating Your Variables in Javascript
 - [x] HeadFirst Javascript - Chapter 6: Getting To Know the DOM
