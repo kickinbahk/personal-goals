@@ -1,5 +1,9 @@
 # Blog Posts and Resources
 
+## Best Overall Practices
+
+- [x] [How to Level up as a Developer](https://www.facebook.com/notes/will-hughes/how-to-level-up-as-a-developer/10153879894028632?utm_source=Blog+Subscriptions&utm_campaign=6d4fb37fa0-Firehose_Fridays_3_4_2016&utm_medium=email&utm_term=0_fda0cd4c67-6d4fb37fa0-286743649)
+
 ## C++
 
 - [ ] [Cprogramming.com](http://www.cprogramming.com/tutorial/lesson1.html)
