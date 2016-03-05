@@ -20,9 +20,9 @@ An open source account of my personal goals. Primarily for accessibility for mul
 - [ ] The Complete Node JS Developer Course - Section: 7 - Project: Todo REST API
 - [ ] Reorganize Chrome Bookmarks
 - [ ] Blog Post - First Draft - Comma Separating Your Variables in Javascript
-- [ ] HeadFirst Javascript - Chapter 6: Getting To Know the DOM
+- [x] HeadFirst Javascript - Chapter 6: Getting To Know the DOM
 - [ ] Fantasy Baseball Ranks 50-100
-- [ ] Taxes
+- [x] Taxes
 
 ## Things I will do in the Future: 
 
