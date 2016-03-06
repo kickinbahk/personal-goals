@@ -14,7 +14,7 @@ fa = require('fa')
 formidable = require('formidable');
 ```
 
-As I said, I knew the program was working how I was expecting it to function, but I wasn't sure why. Additionally, all my searches were not returning anywhere close to the answer I wanted. I knew this was a test, a challenge to my Google Fu, so I kept changing my searches, trying to find the answer to my question. Eventually, I came across [this stackoverflow question](http://stackoverflow.com/questions/21619413/comma-separation-in-javascript]. 
+As I said, I knew the program was working how I was expecting it to function, but I wasn't sure why. Additionally, all my searches were not returning anywhere close to the answer I wanted. I knew this was a test, a challenge to my Google Fu, so I kept changing my searches, trying to find the answer to my question. Eventually, I came across [this stackoverflow question](http://stackoverflow.com/questions/21619413/comma-separation-in-javascript). 
 
 As I read the article, I remembered back to when I first started learning javascript that variables can all be declared on one line by comma separating them. I am not sure have seen this done in a project since that first time, till now. Personally, I prefer to separate by new lines. I don't have a great reason for it, but it just 'feels better' to me. 
 
