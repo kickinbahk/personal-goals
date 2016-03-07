@@ -19,7 +19,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 
 - [x] The Complete Node JS Developer Course - Section: 7 - Project: Todo REST API
 - [ ] Reorganize Chrome Bookmarks
-- [ ] Blog Post - First Draft - Comma Separating Your Variables in Javascript
+- [x] Blog Post - First Draft - Comma Separating Your Variables in Javascript
 - [x] HeadFirst Javascript - Chapter 6: Getting To Know the DOM
 - [ ] Fantasy Baseball Ranks 50-100
 - [x] Taxes
