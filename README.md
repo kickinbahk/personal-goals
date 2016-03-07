@@ -10,19 +10,16 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# February 29, 2016 
+# March 7, 2016 
 
-### This Week's Focus: Node and Express/Taxes
-
+### This Week's Focus: Websockets Presentation/Add Database to Node Todo
 
 ## Things I will do this Week:
 
-- [x] The Complete Node JS Developer Course - Section: 7 - Project: Todo REST API
-- [ ] Reorganize Chrome Bookmarks
-- [x] Blog Post - First Draft - Comma Separating Your Variables in Javascript
-- [x] HeadFirst Javascript - Chapter 6: Getting To Know the DOM
-- [ ] Fantasy Baseball Ranks 50-100
-- [x] Taxes
+- [ ] The Complete Node JS Developer Course - Section: 8 - Working With A Real Database (and adding it to the Todo API)
+- [ ] HeadFirst Javascript - Chapter 7: Serious Types
+- [ ] Blog Post - Publish Post - Comma Separating Your Variables in Javascript
+- [ ] Presentation preparation - Websockets - RRuG
 
 ## Things I will do in the Future: 
 
