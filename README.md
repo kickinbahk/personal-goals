@@ -18,7 +18,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 
 - [ ] The Complete Node JS Developer Course - Section: 8 - Working With A Real Database (and adding it to the Todo API)
 - [ ] HeadFirst Javascript - Chapter 7: Serious Types
-- [ ] Blog Post - Publish Post - Comma Separating Your Variables in Javascript
+- [x] Blog Post - Publish Post - Comma Separating Your Variables in Javascript
 - [ ] Presentation preparation - Websockets - RRuG
 
 ## Things I will do in the Future: 
