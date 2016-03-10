@@ -5,3 +5,6 @@ Resources which do not fall under the other catagories.
 
 - [UpForGrabs.net](http://up-for-grabs.net/#/)
 
+## Learning
+
+- [ ] [Learn X in Y minutes](https://learnxinyminutes.com/)
