@@ -23,6 +23,7 @@
 - [x] [The Two Pillars of JavaScript: Prototypical OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.vqkb1k8m4)
 - [x] [The Two Pillars of JavaScript — Pt 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.y333pl768)
 - [ ] [Leveling Up Your JavaScript](http://developer.telerik.com/featured/leveling-up-your-javascript/?utm_source=javascriptweekly&utm_medium=email)
+- [ ] [A Gentle Introduction to Function JavaScript: Part 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/?utm_content=bufferfa840&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer )
 
 #### Node
 
@@ -53,4 +54,3 @@ Does React really violate Separation of Concern by putting HTML and JS in a sing
 - [x] [Testing Rails with MiniTest](http://blog.crowdint.com/2013/06/14/testing-rails-with-minitest.html)
 - [x] [Rails Testing — Demystifying Test-Unit](http://www.hiringthing.com/2012/08/02/rails-testing-demystifying-test-unit.html)
 - [x] [Getting Started with MiniTest](http://6ftdan.com/allyourdev/2015/04/04/getting-started-with-minitest/)
-
