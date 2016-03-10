@@ -28,7 +28,6 @@
 #### Node
 
 - [ ] [THE DEAD-SIMPLE STEP-BY-STEP GUIDE FOR FRONT-END DEVELOPERS TO GETTING UP AND RUNNING WITH NODE.JS, EXPRESS, JADE, AND MONGODB](http://nodeschool.io/#workshoppers)
-- [ ] [Leveling Up Your JavaScript](http://developer.telerik.com/featured/leveling-up-your-javascript/?utm_source=javascriptweekly&utm_medium=email)
 
 #### React
 
