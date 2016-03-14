@@ -10,16 +10,19 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# March 7, 2016 
+# March 14, 2016 
 
-### This Week's Focus: Websockets Presentation/Add Database to Node Todo
+### This Week's Focus: Presentation/Authentication in Node
 
 ## Things I will do this Week:
 
-- [x] The Complete Node JS Developer Course - Section: 8 - Working With A Real Database (and adding it to the Todo API)
 - [ ] HeadFirst Javascript - Chapter 7: Serious Types
-- [x] Blog Post - Publish Post - Comma Separating Your Variables in Javascript
-- [x] Presentation preparation - Websockets - RRuG
+- [ ] The Complete Node JS Developer Course - Section: 9 - Adding Authentication
+- [ ] Meeting with Jason to go over Node
+- [ ] Record First Episode of Mostly Node
+- [ ] Blog Post - First Draft of Post -
+- [ ] Finish and Give Presentation - Websockets - RRuG
+- [ ] Finish Mostly Node Website 
 
 ## Things I will do in the Future: 
 
