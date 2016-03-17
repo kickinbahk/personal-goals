@@ -18,10 +18,10 @@ An open source account of my personal goals. Primarily for accessibility for mul
 
 - [ ] HeadFirst Javascript - Chapter 7: Serious Types
 - [ ] The Complete Node JS Developer Course - Section: 9 - Adding Authentication
-- [ ] Meeting with Jason to go over Node
+- [x] Meeting with Jason to go over Node
 - [ ] Record First Episode of Mostly Node
 - [ ] Blog Post - First Draft of Post -
-- [ ] Finish and Give Presentation - Websockets - RRuG
+- [x] Finish and Give Presentation - Websockets - RRuG
 - [ ] Finish Mostly Node Website 
 
 ## Things I will do in the Future: 
