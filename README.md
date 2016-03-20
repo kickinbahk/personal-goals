@@ -17,7 +17,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 ## Things I will do this Week:
 
 - [ ] HeadFirst Javascript - Chapter 7: Serious Types
-- [ ] The Complete Node JS Developer Course - Section: 9 - Adding Authentication
+- [x] The Complete Node JS Developer Course - Section: 9 - Adding Authentication
 - [x] Meeting with Jason to go over Node
 - [ ] Record First Episode of Mostly Node
 - [ ] Blog Post - First Draft of Post -
