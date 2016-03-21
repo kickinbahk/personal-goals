@@ -10,19 +10,17 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# March 14, 2016 
+# March 21, 2016 
 
-### This Week's Focus: Presentation/Authentication in Node
+### This Week's Focus: Episode 1 of Podcast/Event Emitters in Node
 
 ## Things I will do this Week:
 
 - [ ] HeadFirst Javascript - Chapter 7: Serious Types
-- [x] The Complete Node JS Developer Course - Section: 9 - Adding Authentication
-- [x] Meeting with Jason to go over Node
 - [ ] Record First Episode of Mostly Node
-- [ ] Blog Post - First Draft of Post -
-- [x] Finish and Give Presentation - Websockets - RRuG
 - [ ] Finish Mostly Node Website 
+- [ ] Go through Node Craftsman Book - Part 1 - Section 6
+- [ ] The Complete Node JS Developer Course - Section: 10 - Socket.io, The Front-end, and A Chat App
 
 ## Things I will do in the Future: 
 
