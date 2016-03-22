@@ -16,8 +16,8 @@ An open source account of my personal goals. Primarily for accessibility for mul
 
 ## Things I will do this Week:
 
-- [ ] HeadFirst Javascript - Chapter 7: Serious Types
-- [ ] Record First Episode of Mostly Node
+- [x] HeadFirst Javascript - Chapter 7: Serious Types
+- [x] Record First Episode of Mostly Node
 - [ ] Finish Mostly Node Website 
 - [ ] Go through Node Craftsman Book - Part 1 - Section 6
 - [ ] The Complete Node JS Developer Course - Section: 10 - Socket.io, The Front-end, and A Chat App
