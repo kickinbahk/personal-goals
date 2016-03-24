@@ -25,7 +25,6 @@ An open source account of my personal goals. Primarily for accessibility for mul
 
 ## Things I will do in the Future: 
 
-- [ ] Blog Post - 3 Month Recap
 - [ ] Blog Post -
 [Hackers](http://www.amazon.com/Hackers-Computer-Revolution-Anniversary-Edition/dp/1449388396) Review
 - [ ] Add discourse to blog
