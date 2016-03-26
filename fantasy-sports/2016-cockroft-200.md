@@ -1,116 +1,76 @@
 # Cockroft's Top 200 of 2016
 
-~~Mike Trout~~
-
-1. Paul Goldschmidt
-3. Bryce Harper
-4. Clayton Kershaw
-
-~~Josh Donaldson~~
-
+  ~~Mike Trout~~
+  ~~Paul Goldschmidt~~
+  ~~Bryce Harper~~
+  ~~Clayton Kershaw~~
+  ~~Josh Donaldson~~
 6. Giancarlo Stanton
-
-~~Manny Machado~~
-
-~~Andrew McCutchen~~
-
-~~Nolan Arenado~~
-
-10. Carlos Correa
-
-~~Jose Altuve~~
-
+  ~~Manny Machado~~
+  ~~Andrew McCutchen~~
+  ~~Nolan Arenado~~
+  ~~Carlos Correa~~
+  ~~Jose Altuve~~
 12. Anthony Rizzo
 13. Jose Bautista 
-
-~~Kris Bryant~~
-
+  ~~Kris Bryant~~
 15. Miguel Cabrera
 16. Edwin Encarnacion
 17. Mookie Betts
 18. Dee Gordon
-19. Max Scherzer
+  ~~Max Scherzer~~
 20. Jose Abreu
-
-~~Jake Arrieta~~
-
-22. Chris Sale
-
-~~A.J. Pollock~~
-
+  ~~Jake Arrieta~~
+  ~~Chris Sale~~
+  ~~A.J. Pollock~~
 24. Starling Marte
 25. David Price
-
-~~Charlie Blackmon~~
-
+  ~~Charlie Blackmon~~
 27. Madison Bumgarner
 28. J.D. Martinez
-
-~~Joey Votto~~
-
-~~Gerrit Cole~~
-
+  ~~Joey Votto~~
+  ~~Gerrit Cole~~
 31. George Springer
 32. Corey Kluber
 33. Buster Posey
-34. Chris Davis
-
-~~Jacob DeGrom~~
-
+  ~~Chris Davis~~
+  ~~Jacob DeGrom~~
 36. Matt Harvey
-
-~~Todd Frazier~~
-
-38. Zack Greinke
+  ~~Todd Frazier~~
+  ~~Zack Greinke~~
 39. Robinson Cano
 40. Justin Upton
-41. Chris Archer
-
-~~Dallas Keuchel~~
-
+  ~~Chris Archer~~
+  ~~Dallas Keuchel~~
 43. Adrian Gonzalez
 44. Stephen Strasburg
 45. Carlos Gonzalez
 46. Nelson Cruz
-
-~~Jose Fernandez~~
-
+  ~~Jose Fernandez~~
 48. Yoenis Cespedes
-
-~~Lorenzo Cain~~
-
-~~Sonny Gray~~
-
+  ~~Lorenzo Cain~~
+  ~~Sonny Gray~~
 51. Ryan Braun
-52. Xander Bogaerts
+  ~~Xander Bogaerts~~
 53. Carlos Gomez
 54. Matt Carpenter
 55. Troy Tulowitzki 
 56. Adam Jones
-
-~~Adam Wainwright~~
-
+  ~~Adam Wainwright~~
 58. Jason Heyward
 59. Prince Fielder
-
-~~Carlos Carrasco~~
-
+  ~~Carlos Carrasco~~
 61. Miguel Sano
 62. Kyle Seager
 63. Noah Syndergaard
 64. Eric Hosmer
 65. Felix Hernandez
-
-~~Kenley Jansen~~
-
+  ~~Kenley Jansen~~ 
 67. Craig Kimbrel
 68. Brian Dozier  
 69. Wade Davis
-
-~~Corey Seager~~
-
-~~Kyle Schwarber~~
-
+  ~~Corey Seager~~
+  ~~Kyle Schwarber~~
 72. Yasiel Puig
 73. Jon Lester
 74. Matt Kemp
@@ -118,9 +78,7 @@
 76. Michael Brantley
 77. Adrian Beltre
 78. Trevor Rosenthal
-
-~~Danny Salazar~~
-
+  ~~Danny Salazar~~
 80. Mark Melancon
 81. Johnny Cueto  
 82. Anthony Rendon
@@ -136,9 +94,7 @@
 92. Garrett Richards  
 93. Cody Allen
 94. Gregory Polanco
-
-~~Jason Kipnis~~
-
+  ~~Jason Kipnis~~
 96. Tyson Ross
 97. Jacoby Ellsbury
 98. Michael Wacha
