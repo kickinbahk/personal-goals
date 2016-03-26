@@ -1,6 +1,6 @@
 # Cockroft's Top 200 of 2016
 
-1. Mike Trout
+1. ~Mike Trout~
 2. Paul Goldschmidt
 3. Bryce Harper
 4. Clayton Kershaw
@@ -200,35 +200,4 @@
 198. Drew Storen
 199. Nick Castellanos 
 200.  Yu Darvish
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
