@@ -5,72 +5,105 @@
   ~~Bryce Harper~~
   ~~Clayton Kershaw~~
   ~~Josh Donaldson~~
+
 6. Giancarlo Stanton
+
   ~~Manny Machado~~
   ~~Andrew McCutchen~~
   ~~Nolan Arenado~~
   ~~Carlos Correa~~
   ~~Jose Altuve~~
+
 12. Anthony Rizzo
-13. Jose Bautista 
+13. Jose Bautista
+
   ~~Kris Bryant~~
+
 15. Miguel Cabrera
 16. Edwin Encarnacion
 17. Mookie Betts
 18. Dee Gordon
+
   ~~Max Scherzer~~
+
 20. Jose Abreu
+  
   ~~Jake Arrieta~~
   ~~Chris Sale~~
   ~~A.J. Pollock~~
+
 24. Starling Marte
 25. David Price
+
   ~~Charlie Blackmon~~
+
 27. Madison Bumgarner
 28. J.D. Martinez
+
   ~~Joey Votto~~
   ~~Gerrit Cole~~
+
 31. George Springer
 32. Corey Kluber
 33. Buster Posey
+
   ~~Chris Davis~~
   ~~Jacob DeGrom~~
+
 36. Matt Harvey
+
   ~~Todd Frazier~~
   ~~Zack Greinke~~
+
 39. Robinson Cano
 40. Justin Upton
+
   ~~Chris Archer~~
   ~~Dallas Keuchel~~
+
 43. Adrian Gonzalez
 44. Stephen Strasburg
 45. Carlos Gonzalez
 46. Nelson Cruz
+
   ~~Jose Fernandez~~
+
 48. Yoenis Cespedes
+
   ~~Lorenzo Cain~~
   ~~Sonny Gray~~
+
 51. Ryan Braun
+
   ~~Xander Bogaerts~~
+
 53. Carlos Gomez
 54. Matt Carpenter
 55. Troy Tulowitzki 
 56. Adam Jones
+
   ~~Adam Wainwright~~
+
 58. Jason Heyward
 59. Prince Fielder
+
   ~~Carlos Carrasco~~
+
 61. Miguel Sano
 62. Kyle Seager
 63. Noah Syndergaard
 64. Eric Hosmer
 65. Felix Hernandez
+
   ~~Kenley Jansen~~ 
+
 67. Craig Kimbrel
 68. Brian Dozier  
 69. Wade Davis
+
   ~~Corey Seager~~
   ~~Kyle Schwarber~~
+
 72. Yasiel Puig
 73. Jon Lester
 74. Matt Kemp
@@ -78,7 +111,9 @@
 76. Michael Brantley
 77. Adrian Beltre
 78. Trevor Rosenthal
+
   ~~Danny Salazar~~
+
 80. Mark Melancon
 81. Johnny Cueto  
 82. Anthony Rendon
@@ -94,7 +129,9 @@
 92. Garrett Richards  
 93. Cody Allen
 94. Gregory Polanco
+
   ~~Jason Kipnis~~
+
 96. Tyson Ross
 97. Jacoby Ellsbury
 98. Michael Wacha
