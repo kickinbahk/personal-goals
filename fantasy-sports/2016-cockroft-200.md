@@ -1,7 +1,7 @@
 # Cockroft's Top 200 of 2016
 
-1. ~Mike Trout~
-2. Paul Goldschmidt
+~Mike Trout~
+1. Paul Goldschmidt
 3. Bryce Harper
 4. Clayton Kershaw
 5. Josh Donaldson 
