@@ -1,6 +1,7 @@
 # Cockroft's Top 200 of 2016
 
 ~~Mike Trout~~
+
 1. Paul Goldschmidt
 3. Bryce Harper
 4. Clayton Kershaw
@@ -49,7 +50,9 @@
 47. Jose Fernandez
 48. Yoenis Cespedes
 49. Lorenzo Cain
-50. Sonny Gray  
+
+ ~~Sonny Gray~~
+
 51. Ryan Braun
 52. Xander Bogaerts
 53. Carlos Gomez
