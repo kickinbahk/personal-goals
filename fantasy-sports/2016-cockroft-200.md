@@ -1,17 +1,17 @@
 # Cockroft's Top 200 of 2016
 
-  ~~Mike Trout~~
-  ~~Paul Goldschmidt~~
-  ~~Bryce Harper~~
-  ~~Clayton Kershaw~~
+  ~~Mike Trout~~ <br>
+  ~~Paul Goldschmidt~~ <br>
+  ~~Bryce Harper~~ <br>
+  ~~Clayton Kershaw~~ <br>
   ~~Josh Donaldson~~
 
 6. Giancarlo Stanton
-
-  ~~Manny Machado~~
-  ~~Andrew McCutchen~~
-  ~~Nolan Arenado~~
-  ~~Carlos Correa~~
+ 
+  ~~Manny Machado~~ <br>
+  ~~Andrew McCutchen~~ <br>
+  ~~Nolan Arenado~~ <br>
+  ~~Carlos Correa~~ <br>
   ~~Jose Altuve~~
 
 12. Anthony Rizzo
@@ -28,8 +28,8 @@
 
 20. Jose Abreu
   
-  ~~Jake Arrieta~~
-  ~~Chris Sale~~
+  ~~Jake Arrieta~~ <br>
+  ~~Chris Sale~~ <br>
   ~~A.J. Pollock~~
 
 24. Starling Marte
@@ -40,25 +40,25 @@
 27. Madison Bumgarner
 28. J.D. Martinez
 
-  ~~Joey Votto~~
+  ~~Joey Votto~~ <br>
   ~~Gerrit Cole~~
 
 31. George Springer
 32. Corey Kluber
 33. Buster Posey
 
-  ~~Chris Davis~~
+  ~~Chris Davis~~ <br>
   ~~Jacob DeGrom~~
 
 36. Matt Harvey
 
-  ~~Todd Frazier~~
+  ~~Todd Frazier~~ <br>
   ~~Zack Greinke~~
 
 39. Robinson Cano
 40. Justin Upton
 
-  ~~Chris Archer~~
+  ~~Chris Archer~~ <br>
   ~~Dallas Keuchel~~
 
 43. Adrian Gonzalez
@@ -70,7 +70,7 @@
 
 48. Yoenis Cespedes
 
-  ~~Lorenzo Cain~~
+  ~~Lorenzo Cain~~ <br>
   ~~Sonny Gray~~
 
 51. Ryan Braun
@@ -101,7 +101,7 @@
 68. Brian Dozier  
 69. Wade Davis
 
-  ~~Corey Seager~~
+  ~~Corey Seager~~ <br>
   ~~Kyle Schwarber~~
 
 72. Yasiel Puig
