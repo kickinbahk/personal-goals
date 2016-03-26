@@ -20,8 +20,8 @@ An open source account of my personal goals. Primarily for accessibility for mul
 - [x] Record First Episode of Mostly Node
 - [ ] Finish Mostly Node Website 
 - [ ] Go through Node Craftsman Book - Part 1 - Section 6
-- [ ] The Complete Node JS Developer Course - Section: 10 - Socket.io, The Front-end, and A Chat App
-- [ ] Blog Post - 3 Month Recap
+- [x] The Complete Node JS Developer Course - Section: 10 - Socket.io, The Front-end, and A Chat App
+- [x] Blog Post - 3 Month Recap
 
 ## Things I will do in the Future: 
 
