@@ -5,53 +5,81 @@
 1. Paul Goldschmidt
 3. Bryce Harper
 4. Clayton Kershaw
-5. Josh Donaldson 
+
+~~Josh Donaldson~~
+
 6. Giancarlo Stanton
-7. Manny Machado
-8. Andrew McCutchen 
-9. Nolan Arenado
+
+~~Manny Machado~~
+
+~~Andrew McCutchen~~
+
+~~Nolan Arenado~~
+
 10. Carlos Correa
-11. Jose Altuve
+
+~~Jose Altuve~~
+
 12. Anthony Rizzo
 13. Jose Bautista 
-14. Kris Bryant
+
+~~Kris Bryant~~
+
 15. Miguel Cabrera
 16. Edwin Encarnacion
 17. Mookie Betts
 18. Dee Gordon
 19. Max Scherzer
 20. Jose Abreu
-21. Jake Arrieta
+
+~~Jake Arrieta~~
+
 22. Chris Sale
-23. A.J. Pollock
+
+~~A.J. Pollock~~
+
 24. Starling Marte
 25. David Price
-26. Charlie Blackmon  
+
+~~Charlie Blackmon~~
+
 27. Madison Bumgarner
 28. J.D. Martinez
-29. Joey Votto  
-30. Gerrit Cole 
+
+~~Joey Votto~~
+
+~~Gerrit Cole~~
+
 31. George Springer
 32. Corey Kluber
 33. Buster Posey
 34. Chris Davis
-35. Jacob DeGrom
+
+~~Jacob DeGrom~~
+
 36. Matt Harvey
-37. Todd Frazier
+
+~~Todd Frazier~~
+
 38. Zack Greinke
 39. Robinson Cano
 40. Justin Upton
 41. Chris Archer
-42. Dallas Keuchel
+
+~~Dallas Keuchel~~
+
 43. Adrian Gonzalez
 44. Stephen Strasburg
 45. Carlos Gonzalez
 46. Nelson Cruz
-47. Jose Fernandez
-48. Yoenis Cespedes
-49. Lorenzo Cain
 
- ~~Sonny Gray~~
+~~Jose Fernandez~~
+
+48. Yoenis Cespedes
+
+~~Lorenzo Cain~~
+
+~~Sonny Gray~~
 
 51. Ryan Braun
 52. Xander Bogaerts
@@ -59,21 +87,30 @@
 54. Matt Carpenter
 55. Troy Tulowitzki 
 56. Adam Jones
-57. Adam Wainwright 
+
+~~Adam Wainwright~~
+
 58. Jason Heyward
 59. Prince Fielder
-60. Carlos Carrasco 
+
+~~Carlos Carrasco~~
+
 61. Miguel Sano
 62. Kyle Seager
 63. Noah Syndergaard
 64. Eric Hosmer
 65. Felix Hernandez
-66. Kenley Jansen
+
+~~Kenley Jansen~~
+
 67. Craig Kimbrel
 68. Brian Dozier  
 69. Wade Davis
-70. Corey Seager
-71. Kyle Schwarber
+
+~~Corey Seager~~
+
+~~Kyle Schwarber~~
+
 72. Yasiel Puig
 73. Jon Lester
 74. Matt Kemp
@@ -81,7 +118,9 @@
 76. Michael Brantley
 77. Adrian Beltre
 78. Trevor Rosenthal
-79. Danny Salazar 
+
+~~Danny Salazar~~
+
 80. Mark Melancon
 81. Johnny Cueto  
 82. Anthony Rendon
@@ -97,7 +136,9 @@
 92. Garrett Richards  
 93. Cody Allen
 94. Gregory Polanco
-95. Jason Kipnis
+
+~~Jason Kipnis~~
+
 96. Tyson Ross
 97. Jacoby Ellsbury
 98. Michael Wacha
