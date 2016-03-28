@@ -10,27 +10,25 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# March 21, 2016 
+# March 28, 2016 
 
-### This Week's Focus: Episode 1 of Podcast/Event Emitters in Node
+### This Week's Focus: Episode 2 of Podcast/Logo for Podcast
 
 ## Things I will do this Week:
-
-- [x] HeadFirst Javascript - Chapter 7: Serious Types
-- [x] Record First Episode of Mostly Node
+- [ ] HeadFirst Javascript - Chapter 8: Building an App
+- [ ] Record Second Episode of Mostly Node
 - [ ] Finish Mostly Node Website 
 - [ ] Go through Node Craftsman Book - Part 1 - Section 6
-- [x] The Complete Node JS Developer Course - Section: 10 - Socket.io, The Front-end, and A Chat App
-- [x] Blog Post - 3 Month Recap
+- [ ] Blog Post - Mostly Node Announcement
+- [ ] Prepare for Fantasy Baseball Draft
+- [ ] Work with [Mocha](https://mochajs.org/) 
 
 ## Things I will do in the Future: 
-
 - [ ] Blog Post -
 [Hackers](http://www.amazon.com/Hackers-Computer-Revolution-Anniversary-Edition/dp/1449388396) Review
 - [ ] Add discourse to blog
 
 ### Backlog
-
 - [ ] [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - [ ] JavaScript Allonge 
 - [ ] Functional Programming for the Object Oriented Programmer
