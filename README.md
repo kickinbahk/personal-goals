@@ -18,7 +18,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 - [ ] HeadFirst Javascript - Chapter 8: Building an App
 - [ ] Record Second Episode of Mostly Node
 - [ ] Finish Mostly Node Website 
-- [ ] Go through Node Craftsman Book - Part 1 - Section 6
+- [ ] Meet with Jason about Node Craftsman Book - Part 1 - Section 6
 - [ ] Blog Post - Mostly Node Announcement
 - [ ] Prepare for Fantasy Baseball Draft
 - [ ] Work with [Mocha](https://mochajs.org/) 
