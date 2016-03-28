@@ -12,7 +12,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 
 # March 28, 2016 
 
-### This Week's Focus: Episode 2 of Podcast/Logo for Podcast
+### This Week's Focus: Work with [Mocha](https://mochajs.org/) 
 
 ## Things I will do this Week:
 - [ ] HeadFirst Javascript - Chapter 8: Building an App
