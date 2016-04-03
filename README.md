@@ -16,11 +16,11 @@ An open source account of my personal goals. Primarily for accessibility for mul
 
 ## Things I will do this Week:
 - [ ] HeadFirst Javascript - Chapter 8: Building an App
-- [ ] Record Second Episode of Mostly Node
-- [ ] Finish Mostly Node Website 
+- [x] Record Second Episode of Mostly Node
+- [x] Finish Mostly Node Website 
 - [ ] Meet with Jason about Node Craftsman Book - Part 1 - Section 6
-- [ ] Blog Post - Mostly Node Announcement
-- [ ] Prepare for Fantasy Baseball Draft
+- [x] Blog Post - Mostly Node Announcement
+- [x] Prepare for Fantasy Baseball Draft
 - [ ] Work with [Mocha](https://mochajs.org/) 
 
 ## Things I will do in the Future: 
