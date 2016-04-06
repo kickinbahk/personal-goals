@@ -13,7 +13,7 @@
 
 ## Founder's Talks
 
-- [ ] [Founders Talk - Gregg Pollock (CodeSchool)](https://www.youtube.com/watch?v=azhLSrqlXFk)
+- [x] [Founders Talk - Gregg Pollock (CodeSchool)](https://www.youtube.com/watch?v=azhLSrqlXFk)
 
 ## Functional Programming
 
@@ -61,7 +61,9 @@
 ## Open Source
 
 - [ ] [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github?utm_source=javascriptweekly&utm_medium=email)
+- [ ] [BathRuby 2016 - Open Source for your Benefit by Courteney Ervin](https://www.youtube.com/watch?v=qhm7XhM2nZk)
+
 ## Ruby
 
-- [ ] [Ruby Midwest 2011 Confident Code by Avdi Grimm](https://www.youtube.com/watch?v=T8J0j2xJFgQ)
+- [x] [Ruby Midwest 2011 Confident Code by Avdi Grimm](https://www.youtube.com/watch?v=T8J0j2xJFgQ)
 - [ ] [GoGaRuCo 2014- Refactoring Ruby with Monads](https://www.youtube.com/watch?v=uTR__8RvgvM)
