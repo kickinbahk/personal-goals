@@ -24,7 +24,7 @@
 
 ## GitHub
 
-- [ ] [How GitHub Uses GitHub to Build GitHub by Zach Holman](https://www.youtube.com/watch?v=qyz3jkOBbQY)
+- [x] [How GitHub Uses GitHub to Build GitHub by Zach Holman](https://www.youtube.com/watch?v=qyz3jkOBbQY)
 - [ ] [Aloha Ruby Conference 2012 Git and GitHub Secrets by Zach Holman](https://www.youtube.com/watch?v=Foz9yvMkvlA)
 
 ## HTML
@@ -60,8 +60,8 @@
 
 ## Open Source
 
-- [ ] [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github?utm_source=javascriptweekly&utm_medium=email)
-- [ ] [BathRuby 2016 - Open Source for your Benefit by Courteney Ervin](https://www.youtube.com/watch?v=qhm7XhM2nZk)
+- [x] [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github?utm_source=javascriptweekly&utm_medium=email)
+- [x] [BathRuby 2016 - Open Source for your Benefit by Courteney Ervin](https://www.youtube.com/watch?v=qhm7XhM2nZk)
 
 ## Ruby
 
