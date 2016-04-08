@@ -20,6 +20,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 - [x] Blog Post - Post Mostly Node Announcement
 - [ ] Work with [Mocha](https://mochajs.org/) 
 - [ ] Incorporate Probable Pitcher names in Probable Pitcher Site
+- [ ] Record 3rd Podcast Episode
 
 ## Things I will do in the Future: 
 - [ ] Blog Post -

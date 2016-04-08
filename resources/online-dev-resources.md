@@ -1,9 +1,12 @@
 # Misc Online Resources
 Resources which do not fall under the other catagories.
 
+## Computer Theory
+- [ ] [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler)
+
 ## Open Source
 
-- [UpForGrabs.net](http://up-for-grabs.net/#/)
+- [ ] [UpForGrabs.net](http://up-for-grabs.net/#/)
 
 ## Learning
 
