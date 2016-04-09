@@ -19,7 +19,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 - [x] Meet with Jason about Node Craftsman Book - Part 1 - Section 6
 - [x] Blog Post - Post Mostly Node Announcement
 - [ ] Work with [Mocha](https://mochajs.org/) 
-- [ ] Incorporate Probable Pitcher names in Probable Pitcher Site
+- [x] Incorporate Probable Pitcher names in Probable Pitcher Site
 - [ ] Record 3rd Podcast Episode
 
 ## Things I will do in the Future: 
