@@ -12,7 +12,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 
 # April 11, 2016 
 
-### This Week's Focus: Work with [Mocha](https://mochajs.org/) 
+### This Week's Focus: Catch up on Loose Ends & Get Married
 
 ## Things I will do this Week:
 - [ ] HeadFirst Javascript - Chapter 8: Building an App
