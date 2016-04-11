@@ -10,16 +10,13 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# April 04, 2016 
+# April 11, 2016 
 
-### This Week's Focus: Work with [Mocha](https://mochajs.org/) & Probable Pitcher module
+### This Week's Focus: Work with [Mocha](https://mochajs.org/) 
 
 ## Things I will do this Week:
 - [ ] HeadFirst Javascript - Chapter 8: Building an App
-- [x] Meet with Jason about Node Craftsman Book - Part 1 - Section 6
-- [x] Blog Post - Post Mostly Node Announcement
 - [ ] Work with [Mocha](https://mochajs.org/) 
-- [x] Incorporate Probable Pitcher names in Probable Pitcher Site
 - [ ] Record 3rd Podcast Episode
 
 ## Things I will do in the Future: 
