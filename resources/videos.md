@@ -11,6 +11,9 @@
 - [ ] [Christopher Alexander - Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA)
 - [x] [Bob Martin - hack.summit() 2016 by Pluralsight](https://www.youtube.com/watch?v=gQQs7RENpqg)
 
+## Elm
+- [x] [React.js Conf 2016 - Jamison Dance - Rethinking All Practices: Building Applications in Elm](https://www.youtube.com/watch?v=txxKx_I39a8&nohtml5=False)
+
 ## Founder's Talks
 
 - [x] [Founders Talk - Gregg Pollock (CodeSchool)](https://www.youtube.com/watch?v=azhLSrqlXFk)
@@ -39,6 +42,7 @@
 - [x] [Ashley Williams: If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
 - [ ] [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
 - [ ] [Asynchronous Programming at Netflix - @Scale 2014 - Web](https://www.youtube.com/watch?v=gawmdhCNy-A)
+- [x] [React.js Conf 2016 - Keith Poplawski - How To Use React In A Wedding Gift Without Being A Bad Friend](https://www.youtube.com/watch?v=GnIrNYtmRDg)
 
 #### - Node
 
