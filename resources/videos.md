@@ -34,6 +34,12 @@
 
 - [x] [Kod.io 2014 - 10 Things I Didn't Know About HTML by Mathias Bynens](https://www.youtube.com/watch?v=mHRKbm0WC1I)
 
+## Interviews
+- [x] [Interview with Kent C. Dodds (O'Reilly Fluent Conference 2016)](https://www.youtube.com/watch?v=7O2dpgNoY4M&index=27&list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL&nohtml5=False)
+- [x] [Interview with Kyle Simpson (O'Reilly Fluent Conference 2016)](https://www.youtube.com/watch?v=QjKH1J77gjI&index=26&list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL&nohtml5=False)
+- [x] [Interview with Laurie Voss (O'Reilly Fluent Conference 2016)](https://www.youtube.com/watch?v=NlzSapFxGds&index=25&list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL&nohtml5=False)
+
+
 ## Javascript
 
 - [x] [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
