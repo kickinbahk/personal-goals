@@ -31,7 +31,7 @@
 
 #### Node
 
-- [ ] [THE DEAD-SIMPLE STEP-BY-STEP GUIDE FOR FRONT-END DEVELOPERS TO GETTING UP AND RUNNING WITH NODE.JS, EXPRESS, JADE, AND MONGODB](http://nodeschool.io/#workshoppers)
+- [ ] [THE DEAD-SIMPLE STEP-BY-STEP GUIDE FOR FRONT-END DEVELOPERS TO GETTING UP AND RUNNING WITH NODE.JS, EXPRESS, JADE, AND MONGODB](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 
 #### React
 
@@ -45,6 +45,9 @@ Does React really violate Separation of Concern by putting HTML and JS in a sing
 - [ ] [Step by Step Guide To Building React Redux Apps](http://www.mybridge.co/view/37675)
 - [ ] [Tutorial: Build a React.js Application With User Authentication](https://stormpath.com/blog/build-a-react-app-with-user-authentication/?utm_source=javascript-weekly&utm_medium=newsletter&utm_campaign=react-app)
 - [ ] [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
+
+## Open Source
+- [x] [What open source project should I contribute to?](https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.fl8ocj9kd)
 
 ## Personal Growth
 
