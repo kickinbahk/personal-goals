@@ -18,7 +18,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 - [ ] HeadFirst Javascript - Chapter 8: Building an App
 - [ ] Work with [Mocha](https://mochajs.org/) 
 - [ ] Record 3rd Podcast Episode
-- [ ] Publish Episode 2 of Mostly Node
+- [x] Publish Episode 2 of Mostly Node
 
 ## Things I will do in the Future: 
 - [ ] Blog Post -
