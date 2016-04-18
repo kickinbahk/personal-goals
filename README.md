@@ -10,15 +10,14 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# April 11, 2016 
+# April 18, 2016 
 
-### This Week's Focus: Catch up on Loose Ends & Get Married ✨ 🎉 ✨
+### This Week's Focus: Catch up on Loose Ends & Honeymoon  🎉 🌊☀️
 
 ## Things I will do this Week:
 - [ ] HeadFirst Javascript - Chapter 8: Building an App
 - [ ] Work with [Mocha](https://mochajs.org/) 
 - [ ] Record 3rd Podcast Episode
-- [x] Publish Episode 2 of Mostly Node
 
 ## Things I will do in the Future: 
 - [ ] Blog Post -
