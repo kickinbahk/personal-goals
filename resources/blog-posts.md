@@ -27,7 +27,7 @@
 - [x] [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.20scg7bsc)
 - [ ] [An Introduction to Functional JavaScript](http://www.sitepoint.com/introduction-functional-javascript/)
 - [ ] [Promise-based functions should not throw exceptions](http://www.2ality.com/2016/03/promise-rejections-vs-exceptions.html?utm_source=javascriptweekly&utm_medium=email)
-- [ ] [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd#.xni27ww76)
+- [x] [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd#.xni27ww76)
 
 #### Node
 
