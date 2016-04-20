@@ -10,6 +10,7 @@
 - [x] [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 - [ ] [Christopher Alexander - Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA)
 - [x] [Bob Martin - hack.summit() 2016 by Pluralsight](https://www.youtube.com/watch?v=gQQs7RENpqg)
+- [ ] [How to build a compiler](http://confreaks.tv/videos/emberconf2016-how-to-build-a-compiler)
 
 ## Elm
 - [x] [React.js Conf 2016 - Jamison Dance - Rethinking All Practices: Building Applications in Elm](https://www.youtube.com/watch?v=txxKx_I39a8&nohtml5=False)
