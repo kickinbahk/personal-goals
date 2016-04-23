@@ -10,23 +10,23 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# April 18, 2016 
+# April 18, 2016
 
 ### This Week's Focus: Catch up on Loose Ends & Honeymoon  🎉 🌊☀️
 
 ## Things I will do this Week:
 - [ ] HeadFirst Javascript - Chapter 8: Building an App
-- [ ] Work with [Mocha](https://mochajs.org/) 
-- [ ] Record 3rd Podcast Episode
+- [ ] Work with [Mocha](https://mochajs.org/)
+- [x] Record 3rd Podcast Episode
 
-## Things I will do in the Future: 
+## Things I will do in the Future:
 - [ ] Blog Post -
 [Hackers](http://www.amazon.com/Hackers-Computer-Revolution-Anniversary-Edition/dp/1449388396) Review
 - [ ] Add discourse to blog
 
 ### Backlog
 - [ ] [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
-- [ ] JavaScript Allonge 
+- [ ] JavaScript Allonge
 - [ ] Functional Programming for the Object Oriented Programmer
 
 =============
