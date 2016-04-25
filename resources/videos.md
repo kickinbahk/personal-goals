@@ -57,6 +57,7 @@
 - [x] [HTML5 Lessons from LinkedIn using Node.js](https://www.youtube.com/watch?v=hMd45Ij2DYQ)
 - [x] [Node.js - How I learned to stop worrying and love the Node](https://www.youtube.com/watch?v=1RW9bxQ1EXI)
 - [x] [Brian Ford: Is Node.js Better?](https://www.youtube.com/watch?v=C5fa1LZYodQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
+- [ ] [Node.js Live (Paris) - Ashley Williams, You Don't Know npm](https://www.youtube.com/watch?v=hopWbVKmiVQ)
 
 #### - React
 
@@ -67,7 +68,7 @@
 
 ## Photoshop
 
-- [x] [How to create an Animated Gif with Video using Photoshop CC 2015](https://www.youtube.com/watch?v=K3pNgn1FAuU) 
+- [x] [How to create an Animated Gif with Video using Photoshop CC 2015](https://www.youtube.com/watch?v=K3pNgn1FAuU)
 
 ## Open Source
 
