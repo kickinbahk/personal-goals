@@ -10,14 +10,15 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# April 18, 2016
+# April 25, 2016
 
-### This Week's Focus: Catch up on Loose Ends & Honeymoon  🎉 🌊☀️
+### This Week's Focus: React Developer Course and Node Craftsman
 
 ## Things I will do this Week:
-- [ ] HeadFirst Javascript - Chapter 8: Building an App
-- [ ] Work with [Mocha](https://mochajs.org/)
-- [x] Record 3rd Podcast Episode
+- Meet with Jason about Node Craftsman Book - Part 1 - Section 7
+- Complete React Developer Course - Section 4
+- New blog post
+- Edit 3rd Podcast Episode
 
 ## Things I will do in the Future:
 - [ ] Blog Post -
