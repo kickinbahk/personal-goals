@@ -15,7 +15,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 ### This Week's Focus: React Developer Course and Node Craftsman
 
 ## Things I will do this Week:
-- [ ] Meet with Jason about Node Craftsman Book - Part 1 - Section 7
+- [x] Meet with Jason about Node Craftsman Book - Part 1 - Section 7
 - [ ] Complete React Developer Course - Section 4
 - [ ] New blog post
 - [ ] Edit 3rd Podcast Episode
