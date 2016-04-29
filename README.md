@@ -18,7 +18,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 - [x] Meet with Jason about Node Craftsman Book - Part 1 - Section 7
 - [ ] Complete React Developer Course - Section 4
 - [ ] New blog post
-- [ ] Edit 3rd Podcast Episode
+- [x] Edit 3rd Podcast Episode
 
 ## Things I will do in the Future:
 - [ ] Blog Post -
