@@ -10,15 +10,16 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# April 25, 2016
+# May 2, 2016
 
-### This Week's Focus: React Developer Course and Node Craftsman
+### This Week's Focus: Intro to Elm Presentation
 
 ## Things I will do this Week:
-- [x] Meet with Jason about Node Craftsman Book - Part 1 - Section 7
-- [x] Complete React Developer Course - Section 4
+- [ ] Record 4th Episode of Mostly Node
+- [ ] Complete React Developer Course - Section 5
+- [ ] Intro to Elm Presentation
 - [ ] New blog post
-- [x] Edit 3rd Podcast Episode
+- [ ] HeadFirst Javascript - Chapter 8: Building an App
 
 ## Things I will do in the Future:
 - [ ] Blog Post -
