@@ -18,7 +18,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 - [ ] Record 4th Episode of Mostly Node
 - [ ] Complete React Developer Course - Section 5
 - [ ] Intro to Elm Presentation
-- [ ] New blog post
+- [x] New blog post
 - [ ] HeadFirst Javascript - Chapter 8: Building an App
 
 ## Things I will do in the Future:
