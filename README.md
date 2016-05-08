@@ -15,9 +15,9 @@ An open source account of my personal goals. Primarily for accessibility for mul
 ### This Week's Focus: Intro to Elm Presentation
 
 ## Things I will do this Week:
-- [ ] Record 4th Episode of Mostly Node
+- [x] Record 4th Episode of Mostly Node
 - [ ] Complete React Developer Course - Section 5
-- [ ] Intro to Elm Presentation
+- [x] Intro to Elm Presentation
 - [x] New blog post
 - [ ] HeadFirst Javascript - Chapter 8: Building an App
 
