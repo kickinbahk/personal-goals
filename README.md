@@ -10,7 +10,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# May 2, 2016
+# May 9, 2016
 
 ### This Week's Focus: New Website and Complete React Developer
 
