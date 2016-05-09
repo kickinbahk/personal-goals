@@ -12,14 +12,14 @@ An open source account of my personal goals. Primarily for accessibility for mul
 
 # May 2, 2016
 
-### This Week's Focus: Intro to Elm Presentation
+### This Week's Focus: New Website and Complete React Developer
 
 ## Things I will do this Week:
-- [x] Record 4th Episode of Mostly Node
-- [ ] Complete React Developer Course - Section 5
-- [x] Intro to Elm Presentation
-- [x] New blog post
 - [ ] HeadFirst Javascript - Chapter 8: Building an App
+- [ ] Complete React Developer Course - Section 5
+- [ ] Continue working on New Website
+- [ ] Edit 4th Episode of Podcast
+- [ ] Give Intro to Elm Presentation
 
 ## Things I will do in the Future:
 - [ ] Blog Post -
