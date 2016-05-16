@@ -10,16 +10,13 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# May 9, 2016
+# May 16, 2016
 
-### This Week's Focus: New Website and Complete React Developer
+### This Week's Focus: Complete React Developer Course & New Website
 
 ## Things I will do this Week:
-- [x] HeadFirst Javascript - Chapter 8: Building an App
 - [ ] Complete React Developer Course - Section 5
-- [x] Continue working on New Website
-- [x] Edit 4th Episode of Podcast
-- [x] Give Intro to Elm Presentation
+- [ ] Finish and Go live with New Site
 
 ## Things I will do in the Future:
 - [ ] Blog Post -
