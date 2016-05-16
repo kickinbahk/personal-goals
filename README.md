@@ -15,11 +15,11 @@ An open source account of my personal goals. Primarily for accessibility for mul
 ### This Week's Focus: New Website and Complete React Developer
 
 ## Things I will do this Week:
-- [ ] HeadFirst Javascript - Chapter 8: Building an App
+- [x] HeadFirst Javascript - Chapter 8: Building an App
 - [ ] Complete React Developer Course - Section 5
-- [ ] Continue working on New Website
-- [ ] Edit 4th Episode of Podcast
-- [ ] Give Intro to Elm Presentation
+- [x] Continue working on New Website
+- [x] Edit 4th Episode of Podcast
+- [x] Give Intro to Elm Presentation
 
 ## Things I will do in the Future:
 - [ ] Blog Post -
