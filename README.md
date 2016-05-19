@@ -17,7 +17,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 ## Things I will do this Week:
 - [ ] Complete React Developer Course - Section 5
 - [x] Finish and Go live with New Site
-- [ ] Record 5th Podcast episode
+- [x] Record 5th Podcast episode
 
 ## Things I will do in the Future:
 - [ ] Blog Post -
