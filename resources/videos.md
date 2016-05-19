@@ -2,15 +2,14 @@
 - [x] [Marcy Sutton: JavaScript for Everybody | JSConf EU 2014](https://www.youtube.com/watch?v=04DOp1F9Od4&index=22&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
 
 ## Computer History
-
 - [x] [Steven Levy Talks about Hackers Heroes of the Computer Revolution - 25th Anniversary Edition](https://www.youtube.com/watch?v=w_jwcCseDk0)
 
 ## Computer Theory
-
 - [x] [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 - [ ] [Christopher Alexander - Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA)
 - [x] [Bob Martin - hack.summit() 2016 by Pluralsight](https://www.youtube.com/watch?v=gQQs7RENpqg)
 - [ ] [How to build a compiler](http://confreaks.tv/videos/emberconf2016-how-to-build-a-compiler)
+- [x] [RailsConf 2016 - Implementing the LHC on a Whiteboard by James Edward Gray II](https://www.youtube.com/watch?v=g5lWfHEeibs)
 
 ## Elm
 - [x] [React.js Conf 2016 - Jamison Dance - Rethinking All Practices: Building Applications in Elm](https://www.youtube.com/watch?v=txxKx_I39a8&nohtml5=False)
@@ -79,3 +78,4 @@
 
 - [x] [Ruby Midwest 2011 Confident Code by Avdi Grimm](https://www.youtube.com/watch?v=T8J0j2xJFgQ)
 - [ ] [GoGaRuCo 2014- Refactoring Ruby with Monads](https://www.youtube.com/watch?v=uTR__8RvgvM)
+- [x] [Make Ruby Great Again.](http://blog.testdouble.com/posts/2016-05-09-make-ruby-great-again.html?utm_source=rubyweekly&utm_medium=email)
