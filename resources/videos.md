@@ -57,6 +57,7 @@
 - [x] [Node.js - How I learned to stop worrying and love the Node](https://www.youtube.com/watch?v=1RW9bxQ1EXI)
 - [x] [Brian Ford: Is Node.js Better?](https://www.youtube.com/watch?v=C5fa1LZYodQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
 - [x] [Node.js Live (Paris) - Ashley Williams, You Don't Know npm](https://www.youtube.com/watch?v=hopWbVKmiVQ)
+- [ ] [It goes to eleven - Thomas Watson](https://www.youtube.com/watch?v=ayvAx6yuMYc&index=6&list=PL0CdgOSSGlBYnHAl_DZoy9BWvdVQjNKE2)
 
 #### - React
 
@@ -64,6 +65,7 @@
 - [ ] [ReactJS Conf 2016 - Day 1](https://www.youtube.com/watch?feature=youtu.be&v=-bdX8A_6v20&app=desktop)
 - [ ] [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
 - [ ] [React.js Conf 2015 - The complementarity of React and Web Components](https://www.youtube.com/watch?v=g0TD0efcwVg&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr&index=12)
+- [ ] [Learn React and Redux - Wes Bos](https://learnredux.com)
 
 ## Photoshop
 
@@ -79,3 +81,5 @@
 - [x] [Ruby Midwest 2011 Confident Code by Avdi Grimm](https://www.youtube.com/watch?v=T8J0j2xJFgQ)
 - [ ] [GoGaRuCo 2014- Refactoring Ruby with Monads](https://www.youtube.com/watch?v=uTR__8RvgvM)
 - [x] [Make Ruby Great Again.](http://blog.testdouble.com/posts/2016-05-09-make-ruby-great-again.html?utm_source=rubyweekly&utm_medium=email)
+- [ ] [RailsConf 2016 - Writing a Test Framework from Scratch by Ryan Davis](https://www.youtube.com/watch?v=yj_ODdTWGcQ&list=PLE7tQUdRKcyZGYLfj6oRQWPxB6ijg1YsC&index=6)
+- [ ] [RailsConf 2016 - Will It Inject? A Look at SQL injections and ActiveRecord by Jessica Rudder](https://www.youtube.com/watch?v=2GHWAYys1is&list=PLE7tQUdRKcyZGYLfj6oRQWPxB6ijg1YsC&index=10)

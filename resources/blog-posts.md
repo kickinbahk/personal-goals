@@ -40,11 +40,12 @@
 - [ ] [An Introduction to React Redux (Part 1)](https://shellmonger.com/2016/02/16/an-introduction-to-react-redux-part-1/)
 - [ ] [An Introduction to React Redux (Part 2)](https://shellmonger.com/2016/02/19/an-introduction-to-react-redux-part-2/)
 - [ ] [Meet JSX...Again!](https://www.kirupa.com/react/meet_jsx_again.htm?utm_campaign=linkplug&utm_source=linkplug&utm_medium=linkplug&utm_content=linkplug&utm_term=linkplug)
-- [ ] [
-Does React really violate Separation of Concern by putting HTML and JS in a single file?](https://hashnode.com/post/does-react-really-violate-separation-of-concern-by-putting-html-and-js-in-a-single-file-cil3bn5hj0011a65347rsdut0)
+- [ ] [Does React really violate Separation of Concern by putting HTML and JS in a single file?](https://hashnode.com/post/does-react-really-violate-separation-of-concern-by-putting-html-and-js-in-a-single-file-cil3bn5hj0011a65347rsdut0)
 - [ ] [Step by Step Guide To Building React Redux Apps](http://www.mybridge.co/view/37675)
 - [ ] [Tutorial: Build a React.js Application With User Authentication](https://stormpath.com/blog/build-a-react-app-with-user-authentication/?utm_source=javascript-weekly&utm_medium=newsletter&utm_campaign=react-app)
 - [ ] [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
+- [x] [Getting React and ES6 Syntax Highlighting in Sublime Text](http://gunnariauvinen.com/getting-es6-syntax-highlighting-in-sublime-text/)
+- [x] [How I learned to stop worrying and love the JSX](http://jamesknelson.com/learned-stop-worrying-love-jsx/?utm_content=bufferc2891&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ## Open Source
 - [x] [What open source project should I contribute to?](https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.fl8ocj9kd)
