@@ -16,9 +16,8 @@ An open source account of my personal goals. Primarily for accessibility for mul
 
 ## Things I will do this Week:
 - [ ] Complete React Developer Course - Section 5
-- [ ] Record 6th Podcast episode
+- [x] Record 6th Podcast episode
 - [ ] Edit 5th Podcast Episode
-- [ ] Meet with Jason on Node Craftsman book
 
 ## Things I will do in the Future:
 - [ ] Blog Post -
