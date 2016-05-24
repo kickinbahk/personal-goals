@@ -92,3 +92,30 @@ Again, since I am modifying a current package, I will just use the same name for
 
 ### Add the Body
 This is what will replace the shortcut (aka: added to your file). I want it to be the same, but not include the semi-colon, `module.exports = name`
+
+This is great, however what if we want the cursor placed where we need to type we need to make a small change. You can add `$1` and when you use the snippet, it will automatically place the cursor there for you to type. You can change the syntax slightly to `${1:name}`. This will place your cusor there, but use 'name' as a placeholder.
+
+We can add additional numebers if there are additional areas that we need to be filled in by incrementing the syntax (`$2`... or `${2:foo}`). The entire syntax we have been doing would end up looking like:
+```
+'.source.js':
+  'Module Exports':
+    'prefix': 'expmod'
+    'body': 'module.exports = ${1:name}'
+```
+
+### Add a multi-line snippet
+If we want the snippet to be multi-lined we need to make a simple change to the syntax. We just need to use 3 double quotes rather than single quotes. Here is the way that would look:
+```
+'.source.js':
+   'function':
+     'prefix': 'newfunc'
+     'body': """
+      function () {
+        $1
+      }
+     """
+```
+
+This should allow the customization of snippets you want and hopefully will speed up your coding.
+
+Happy Coding!
