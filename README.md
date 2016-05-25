@@ -15,7 +15,7 @@ An open source account of my personal goals. Primarily for accessibility for mul
 ### This Week's Focus: Complete React Developer Course & Node Craftsman book - Node.js and MySQL
 
 ## Things I will do this Week:
-- [ ] Complete React Developer Course - Section 5
+- [x] Complete React Developer Course - Section 5
 - [x] Record 6th Podcast episode
 - [ ] Edit 5th Podcast Episode
 
