@@ -10,14 +10,12 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# May 23, 2016
+# May 30, 2016
 
-### This Week's Focus: Complete React Developer Course & Node Craftsman book - Node.js and MySQL
+### This Week's Focus: Complete React Developer Course - Section 6
 
 ## Things I will do this Week:
-- [x] Complete React Developer Course - Section 5
-- [x] Record 6th Podcast episode
-- [x] Edit 5th Podcast Episode
+- [ ] Complete React Developer Course - Section 6
 
 ## Things I will do in the Future:
 - [ ] Blog Post -
