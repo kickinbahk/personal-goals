@@ -35,7 +35,7 @@
 
 #### React
 
-- [ ] [I Learned How to be Productive in React in a Week and You Can, Too](https://css-tricks.com/productive-in-react/)
+- [x] [I Learned How to be Productive in React in a Week and You Can, Too](https://css-tricks.com/productive-in-react/)
 - [x] [Universal Blog App: A Step-by-Step Guide](http://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/?utm_source=javascriptweekly&utm_medium=email)
 - [ ] [An Introduction to React Redux (Part 1)](https://shellmonger.com/2016/02/16/an-introduction-to-react-redux-part-1/)
 - [ ] [An Introduction to React Redux (Part 2)](https://shellmonger.com/2016/02/19/an-introduction-to-react-redux-part-2/)
@@ -46,6 +46,7 @@
 - [ ] [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
 - [x] [Getting React and ES6 Syntax Highlighting in Sublime Text](http://gunnariauvinen.com/getting-es6-syntax-highlighting-in-sublime-text/)
 - [x] [How I learned to stop worrying and love the JSX](http://jamesknelson.com/learned-stop-worrying-love-jsx/?utm_content=bufferc2891&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [ ] [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/?utm_source=javascriptweekly&utm_medium=email)
 
 ## Open Source
 - [x] [What open source project should I contribute to?](https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.fl8ocj9kd)
