@@ -10,14 +10,12 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# May 30, 2016
+# June 6, 2016
 
-### This Week's Focus: Complete React Developer Course - Section 6
+### This Week's Focus: Honeymoon!!! 😎🎉
 
 ## Things I will do this Week:
-- [x] Complete React Developer Course - Section 6
-- [x] Edit Podcast Episode 6
-- [x] Wedding Reception on Saturday
+- Honeymoon!!! 😎🎉
 
 ## Things I will do in the Future:
 - [ ] Blog Post -
