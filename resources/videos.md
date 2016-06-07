@@ -83,5 +83,5 @@
 - [x] [Make Ruby Great Again.](http://blog.testdouble.com/posts/2016-05-09-make-ruby-great-again.html?utm_source=rubyweekly&utm_medium=email)
 - [ ] [RailsConf 2016 - Writing a Test Framework from Scratch by Ryan Davis](https://www.youtube.com/watch?v=yj_ODdTWGcQ&list=PLE7tQUdRKcyZGYLfj6oRQWPxB6ijg1YsC&index=6)
 - [ ] [RailsConf 2016 - Will It Inject? A Look at SQL injections and ActiveRecord by Jessica Rudder](https://www.youtube.com/watch?v=2GHWAYys1is&list=PLE7tQUdRKcyZGYLfj6oRQWPxB6ijg1YsC&index=10)
-- [ ] [RailsConf 2016 - Succession by Katrina Owen](https://www.youtube.com/watch?v=59YClXmkCVM)
-- [ ]  [RailsConf 2016 - Get a Whiff of This by Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU&spfreload=10)
+- [x] [RailsConf 2016 - Succession by Katrina Owen](https://www.youtube.com/watch?v=59YClXmkCVM)
+- [x]  [RailsConf 2016 - Get a Whiff of This by Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU&spfreload=10)
