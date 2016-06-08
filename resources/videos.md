@@ -85,4 +85,4 @@
 - [ ] [RailsConf 2016 - Will It Inject? A Look at SQL injections and ActiveRecord by Jessica Rudder](https://www.youtube.com/watch?v=2GHWAYys1is&list=PLE7tQUdRKcyZGYLfj6oRQWPxB6ijg1YsC&index=10)
 - [x] [RailsConf 2016 - Succession by Katrina Owen](https://www.youtube.com/watch?v=59YClXmkCVM)
 - [x]  [RailsConf 2016 - Get a Whiff of This by Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU&spfreload=10)
-- [ ] [RailsConf 2016 - RSpec and Rails 5 by Justin Searls](https://www.youtube.com/watch?v=vntVoC5uSYk)
+- [x] [RailsConf 2016 - RSpec and Rails 5 by Justin Searls](https://www.youtube.com/watch?v=vntVoC5uSYk)
