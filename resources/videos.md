@@ -58,6 +58,7 @@
 - [x] [Brian Ford: Is Node.js Better?](https://www.youtube.com/watch?v=C5fa1LZYodQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
 - [x] [Node.js Live (Paris) - Ashley Williams, You Don't Know npm](https://www.youtube.com/watch?v=hopWbVKmiVQ)
 - [ ] [It goes to eleven - Thomas Watson](https://www.youtube.com/watch?v=ayvAx6yuMYc&index=6&list=PL0CdgOSSGlBYnHAl_DZoy9BWvdVQjNKE2)
+- [ ] [Node.js Live (Paris) - Igor Soarez, Anti-patterns in Node.js](https://www.youtube.com/watch?v=pGFQ02qtJ7w&list=PLfMzBWSH11xZWvE3iuTw6tdzp90gnODdp&index=5)
 
 #### - React
 
