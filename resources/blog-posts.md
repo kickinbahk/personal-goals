@@ -63,3 +63,4 @@
 - [x] [Testing Rails with MiniTest](http://blog.crowdint.com/2013/06/14/testing-rails-with-minitest.html)
 - [x] [Rails Testing — Demystifying Test-Unit](http://www.hiringthing.com/2012/08/02/rails-testing-demystifying-test-unit.html)
 - [x] [Getting Started with MiniTest](http://6ftdan.com/allyourdev/2015/04/04/getting-started-with-minitest/)
+- [x] [Exploring Cryptography Fundamentals in Ruby](https://www.sitepoint.com/exploring-cryptography-fundamentals-in-ruby/)
