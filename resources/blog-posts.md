@@ -48,6 +48,7 @@
 - [x] [Getting React and ES6 Syntax Highlighting in Sublime Text](http://gunnariauvinen.com/getting-es6-syntax-highlighting-in-sublime-text/)
 - [x] [How I learned to stop worrying and love the JSX](http://jamesknelson.com/learned-stop-worrying-love-jsx/?utm_content=bufferc2891&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [ ] [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/?utm_source=javascriptweekly&utm_medium=email)
+- [x] [React.createClass versus extends React.Component](https://toddmotto.com/react-create-class-versus-component/)
 
 ## Open Source
 - [x] [What open source project should I contribute to?](https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.fl8ocj9kd)
