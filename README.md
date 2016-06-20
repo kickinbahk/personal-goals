@@ -15,8 +15,9 @@ An open source account of my personal goals. Primarily for accessibility for mul
 ### This Week's Focus: Complete React Developer Course - Section 7
 
 ## Things I will do this Week:
-- [x] Moving
 - [ ] Complete React Developer Course - Section 7
+- [ ] Record Episode 7 of Podcast
+- [ ] Edit Episode 7 of Podcast
 
 ## Things I will do in the Future:
 - [ ] Blog Post -
