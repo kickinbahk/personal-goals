@@ -68,6 +68,7 @@
 - [ ] [React.js Conf 2015 - The complementarity of React and Web Components](https://www.youtube.com/watch?v=g0TD0efcwVg&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr&index=12)
 - [ ] [Learn React and Redux - Wes Bos](https://learnredux.com)
 - [x] [Taming the React Setup](http://developer.telerik.com/featured/taming-react-setup/?utm_content=buffere815b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [x] [Cheng Lou - On the Spectrum of Abstraction at react-europe 2016](https://www.youtube.com/watch?v=mVVNJKv9esE)
 
 ## Photoshop
 
