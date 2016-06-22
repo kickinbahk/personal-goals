@@ -29,6 +29,7 @@
 - [ ] [Promise-based functions should not throw exceptions](http://www.2ality.com/2016/03/promise-rejections-vs-exceptions.html?utm_source=javascriptweekly&utm_medium=email)
 - [x] [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd#.xni27ww76)
 - [ ] [Refactoring a JavaScript video store](http://martinfowler.com/articles/refactoring-video-store-js/?utm_content=bufferf93af&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [x] [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.sba6kjaep)
 
 #### Node
 
