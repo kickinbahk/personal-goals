@@ -30,6 +30,8 @@
 - [x] [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd#.xni27ww76)
 - [ ] [Refactoring a JavaScript video store](http://martinfowler.com/articles/refactoring-video-store-js/?utm_content=bufferf93af&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [x] [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.sba6kjaep)
+- [ ] [Promises: The Sync Problem (part 1)](https://blog.getify.com/promises-part-1/)
+- [ ] [Promises: All The Wrong Ways](https://blog.getify.com/promises-wrong-ways/?utm_source=javascriptweekly&utm_medium=email) 
 
 #### Node
 
