@@ -23,7 +23,7 @@
 - [x] [The Two Pillars of JavaScript: Prototypical OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.vqkb1k8m4)
 - [x] [The Two Pillars of JavaScript — Pt 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.y333pl768)
 - [ ] [Leveling Up Your JavaScript](http://developer.telerik.com/featured/leveling-up-your-javascript/?utm_source=javascriptweekly&utm_medium=email)
-- [x] [A Gentle Introduction to Function JavaScript: Part 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/?utm_content=bufferfa840&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [x] [A Gentle Introduction to Functional JavaScript: Part 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/?utm_content=bufferfa840&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [x] [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.20scg7bsc)
 - [ ] [An Introduction to Functional JavaScript](http://www.sitepoint.com/introduction-functional-javascript/)
 - [ ] [Promise-based functions should not throw exceptions](http://www.2ality.com/2016/03/promise-rejections-vs-exceptions.html?utm_source=javascriptweekly&utm_medium=email)
@@ -31,7 +31,7 @@
 - [ ] [Refactoring a JavaScript video store](http://martinfowler.com/articles/refactoring-video-store-js/?utm_content=bufferf93af&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [x] [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.sba6kjaep)
 - [ ] [Promises: The Sync Problem (part 1)](https://blog.getify.com/promises-part-1/)
-- [ ] [Promises: All The Wrong Ways](https://blog.getify.com/promises-wrong-ways/?utm_source=javascriptweekly&utm_medium=email) 
+- [ ] [Promises: All The Wrong Ways](https://blog.getify.com/promises-wrong-ways/?utm_source=javascriptweekly&utm_medium=email)
 
 #### Node
 
