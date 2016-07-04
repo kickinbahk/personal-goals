@@ -89,3 +89,4 @@
 - [x] [RailsConf 2016 - Succession by Katrina Owen](https://www.youtube.com/watch?v=59YClXmkCVM)
 - [x]  [RailsConf 2016 - Get a Whiff of This by Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU&spfreload=10)
 - [x] [RailsConf 2016 - RSpec and Rails 5 by Justin Searls](https://www.youtube.com/watch?v=vntVoC5uSYk)
+- [ ] [Sean Griffin - Rails 5 Features You Haven't Heard About - Ancient City Ruby 2016](https://www.youtube.com/watch?v=HoPhC4nEpQ8&utm_content=buffer04d49&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
