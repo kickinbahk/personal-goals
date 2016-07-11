@@ -10,13 +10,12 @@ An open source account of my personal goals. Primarily for accessibility for mul
 4. Just Build Websites
 5. React
 
-# July 5th, 2016
+# July 11th, 2016
 
-### This Week's Focus: Complete React Developer Course - Section 7
+### This Week's Focus: Complete React Developer Course - Section 8
 
 ## Things I will do this Week:
 - [ ] Complete React Developer Course - Section 8
-- [x] Edit Episode 8 of Podcast
 
 ## Things I will do in the Future:
 - [ ] Blog Post -
