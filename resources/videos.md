@@ -13,6 +13,7 @@
 
 ## Elm
 - [x] [React.js Conf 2016 - Jamison Dance - Rethinking All Practices: Building Applications in Elm](https://www.youtube.com/watch?v=txxKx_I39a8&nohtml5=False)
+- [ ] [PolyConf 16: Elm for JavaScript Developers / Jack Franklin](https://www.youtube.com/watch?v=tOkOmWgDLOM&utm_content=bufferad65e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ## Founder's Talks
 
