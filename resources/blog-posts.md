@@ -32,6 +32,7 @@
 - [x] [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.sba6kjaep)
 - [ ] [Promises: The Sync Problem (part 1)](https://blog.getify.com/promises-part-1/)
 - [ ] [Promises: All The Wrong Ways](https://blog.getify.com/promises-wrong-ways/?utm_source=javascriptweekly&utm_medium=email)
+- [ ] [The Most In-Depth Yet Understandable ES6 Destructuring Tutorial (complete with Assembled Avengers)](http://untangled.io/in-depth-es6-destructuring-with-assembled-avengers/?utm_source=javascriptweekly&utm_medium=email)
 
 #### Node
 
