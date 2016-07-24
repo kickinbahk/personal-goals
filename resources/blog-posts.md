@@ -71,3 +71,4 @@
 - [x] [Rails Testing — Demystifying Test-Unit](http://www.hiringthing.com/2012/08/02/rails-testing-demystifying-test-unit.html)
 - [x] [Getting Started with MiniTest](http://6ftdan.com/allyourdev/2015/04/04/getting-started-with-minitest/)
 - [x] [Exploring Cryptography Fundamentals in Ruby](https://www.sitepoint.com/exploring-cryptography-fundamentals-in-ruby/)
+  - [ ] [Ruby's case statement - advanced techniques](http://blog.honeybadger.io/rubys-case-statement-advanced-techniques/?utm_source=rubyweekly&utm_medium=email)
